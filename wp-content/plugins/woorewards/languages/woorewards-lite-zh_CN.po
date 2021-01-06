@@ -1,0 +1,3075 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooRewards\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-26 09:14+0100\n"
+"PO-Revision-Date: 2020-11-26 09:14+0100\n"
+"Last-Translator: leon <lion.su@gmail.com>\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woorewards.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2\n"
+"X-Loco-Template: languages/woorewards-zh_CN.po\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: assets/lws-adminpanel/argparser.php:158
+#, php-format
+msgctxt "Input array validation"
+msgid "%s value rejected"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:169
+#, fuzzy, php-format
+#| msgid "%s discount on an order"
+msgctxt "Input array validation"
+msgid "%s is not an array"
+msgstr "订单金额可享 %s 折扣"
+
+#: assets/lws-adminpanel/argparser.php:173
+#, php-format
+msgid "A value in %s"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:192
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is not valid"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:197
+#, php-format
+msgctxt "Input array validation"
+msgid "%s must be equal or greater than zero"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:203
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is not a decimal number"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:205
+#: assets/lws-adminpanel/argparser.php:215
+#, php-format
+msgctxt "Input array validation"
+msgid "%s must be greater than zero"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:213
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is not a number"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:219
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is not a string"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:231
+#, php-format
+msgctxt "Input array validation"
+msgid "%s is empty"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:281
+#, php-format
+msgctxt "Input array validation"
+msgid "Missing required value for %s"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:291
+#, php-format
+msgctxt "Input array validation"
+msgid "Missing entry %s"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:297
+#, php-format
+msgctxt "Input array validation"
+msgid "Missing value for %s"
+msgstr ""
+
+#: assets/lws-adminpanel/argparser.php:364
+#, php-format
+msgctxt "Input array validation"
+msgid "Unknown entry %s"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:79
+#: assets/lws-adminpanel/credits/query.php:132
+msgid "You actually use a <b>hacked</b> version."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:79
+#, php-format
+msgid "This activation actually uses the license key <b>%s</b>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:82
+#: assets/lws-adminpanel/credits/query.php:137
+#, php-format
+msgid "%s - Activated"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:84
+#: assets/lws-adminpanel/credits/query.php:139
+#, php-format
+msgid "Visit <a href='%s'>%s</a> to discover other offers."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:101
+#, php-format
+msgid "Your license expires the %s."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:113
+msgid "Set another license key"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:113
+#: assets/lws-adminpanel/credits/query.php:148
+#, php-format
+msgid "%s - Activate your license"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:150
+#, php-format
+msgid ""
+"<p>The plugin <strong>%s</strong> from <a href='%s'>%s</a> needs activation</"
+"p><p>Contact your administrator.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:162
+msgid "Pro Version"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:187
+#: assets/lws-adminpanel/credits/query.php:341
+#, fuzzy
+#| msgctxt "Unlockable validity period end"
+#| msgid "Active End Date"
+msgctxt "plugin activation form button"
+msgid "Activate"
+msgstr "有效期截止"
+
+#: assets/lws-adminpanel/credits/query.php:188
+#: assets/lws-adminpanel/credits/query.php:342
+#, fuzzy
+#| msgid "Add Licence Key"
+msgctxt "plugin activation form"
+msgid "License key"
+msgstr "输入授权码"
+
+#: assets/lws-adminpanel/credits/query.php:189
+msgctxt "plugin activation form"
+msgid "Login"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:190
+msgctxt "plugin activation form"
+msgid "Password"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:191
+msgid "Install pro version after license validation"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:212
+#, php-format
+msgctxt "%4$s is license key form."
+msgid ""
+"<p>Activate this plugin to enjoy all the pro features of <strong>%1$s</"
+"strong><br/>\n"
+"If you do not have any license, please visit <a href='%3$s'>%2$s</a></p>\n"
+"<p>%4$s</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:217
+#, php-format
+msgid "<p>An error occured during <strong>%s</strong> activation.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:220
+#, php-format
+msgid "or using your connection settings to <a href='%2$s'>%1$s</a>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:229
+#, php-format
+msgid ""
+"You are using the free version of %1$s. You can use it <a href=\"%2$s"
+"\">here</a> or upgrade to the Trial/Pro version down below."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:256
+msgid "Install PRO version now"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:266
+#, fuzzy
+#| msgctxt "Unlockable validity period end"
+#| msgid "Active End Date"
+msgctxt "plugin activation link"
+msgid "Activate"
+msgstr "有效期截止"
+
+#: assets/lws-adminpanel/credits/query.php:270
+#, php-format
+msgid "<p>The plugin <strong>%s</strong> needs activation %s</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:277
+#, php-format
+msgid ""
+"<p>The plugin <strong>%s</strong> from <a href='%s'>%s</a> needs activation</"
+"p>\n"
+"\t\t\t\t<p>Contact your administrator.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:290
+msgid "<p>Data seems corrupted.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:330
+msgid ""
+"<p>Your web host cannot contact the licence server. Update and activation "
+"could be affected.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:332
+#: assets/lws-adminpanel/credits/update.php:257
+#, php-format
+msgid ""
+"<p>It is a known issue on some web host providers working with clusters. "
+"Please contact your host provider and ask for <i>%s</i></p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:335
+msgid ""
+"<p>Please fill in the form again to try activation in <b>degraded mode</b></"
+"p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:375
+#: assets/lws-adminpanel/credits/query.php:400
+msgid "<p>Internal error, please retry later.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:391
+msgid "<p>Corrupted data.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:415
+msgid ""
+"<p class='lws-adminpanel-activation-error'>The license server cannot "
+"validate your request. Please check your values and try again.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:443
+msgid "<p>Operation abort, detect a man-in-the-middle attack.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:450
+msgid "<p>Corrupted data from license server.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:457
+#, php-format
+msgid "<p><strong>%s</strong> is now activated.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:460
+msgid "Now, you can check available plugin updates."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/query.php:489
+msgid "<p>License denied.</p>"
+msgstr ""
+
+#. Author of the plugin/theme
+#: assets/lws-adminpanel/credits/query.php:525
+#: assets/lws-adminpanel/credits/update.php:471
+msgid "Long Watch Studio"
+msgstr "Long Watch Studio"
+
+#. Plugin URI of the plugin/theme
+#: assets/lws-adminpanel/credits/query.php:527
+#: assets/lws-adminpanel/credits/query.php:529
+#: assets/lws-adminpanel/credits/update.php:473
+#: assets/lws-adminpanel/credits/update.php:475
+msgid "https://plugins.longwatchstudio.com"
+msgstr "https://plugins.longwatchstudio.com"
+
+#: assets/lws-adminpanel/credits/showcase.php:61
+msgid "More..."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/update.php:253
+#, php-format
+msgid ""
+"<p><b>%s</b> cannot contact licence server. Plugin update encounters "
+"difficulties.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/update.php:349
+msgid "Invalid URL Provided."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/update.php:355
+msgid "Could not create Temporary file."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/update.php:401
+#, php-format
+msgid "No maintenance available for <b>%s</b>."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/update.php:406
+msgid "Update request rejected."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/update.php:408
+msgid "Download falls back to an older version."
+msgstr ""
+
+#: assets/lws-adminpanel/credits/update.php:414
+#, php-format
+msgid "<p>Your maintenance expired on %s.</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/update.php:418
+msgid "our site"
+msgstr ""
+
+#: assets/lws-adminpanel/credits/update.php:420
+#, php-format
+msgid ""
+"<p>Please visit %s to renew your maintenance and receive the plugin updates."
+"</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/duration.php:79
+msgid "Year"
+msgid_plural "Years"
+msgstr[0] ""
+
+#: assets/lws-adminpanel/duration.php:82
+msgid "Month"
+msgid_plural "Months"
+msgstr[0] ""
+
+#: assets/lws-adminpanel/duration.php:85
+msgid "Week"
+msgid_plural "Weeks"
+msgstr[0] ""
+
+#: assets/lws-adminpanel/duration.php:88
+msgid "Hour"
+msgid_plural "Hours"
+msgstr[0] ""
+
+#: assets/lws-adminpanel/duration.php:91
+msgid "Minute"
+msgid_plural "Minutes"
+msgstr[0] ""
+
+#: assets/lws-adminpanel/duration.php:94
+msgid "Second"
+msgid_plural "Seconds"
+msgstr[0] ""
+
+#: assets/lws-adminpanel/duration.php:97
+msgid "Day"
+msgid_plural "Days"
+msgstr[0] ""
+
+#: assets/lws-adminpanel/duration.php:286
+msgid "Days"
+msgstr ""
+
+#: assets/lws-adminpanel/duration.php:287
+msgid "Months"
+msgstr ""
+
+#: assets/lws-adminpanel/duration.php:288
+msgid "Years"
+msgstr ""
+
+#: assets/lws-adminpanel/duration.php:291
+msgid "Weeks"
+msgstr ""
+
+#: assets/lws-adminpanel/duration.php:292
+msgid "Hours"
+msgstr ""
+
+#: assets/lws-adminpanel/duration.php:293
+msgid "Minutes"
+msgstr ""
+
+#: assets/lws-adminpanel/duration.php:294
+msgid "Seconds"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist.php:150
+msgctxt "editlist groupby"
+msgid "Add a group"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist.php:274
+msgid "Apply"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist.php:309
+#: assets/lws-adminpanel/pages/field/class-taglist.php:21
+msgid "Add"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist.php:419
+msgid "Cancel"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist.php:420
+msgid "Save"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist.php:436
+msgid "Delete"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist.php:437
+msgid "Copy"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist.php:438
+msgid "Quick Edit"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist/class-filter.php:91
+#, fuzzy
+#| msgid "Search..."
+msgid "Search"
+msgstr "搜索..."
+
+#: assets/lws-adminpanel/editlist/class-filter.php:100
+msgid "Narrow your search"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist/class-filter.php:136
+msgid "Filter the results"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist/class-pager.php:83
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+
+#: assets/lws-adminpanel/editlist/class-pager.php:90
+msgid "Items per page"
+msgstr ""
+
+#: assets/lws-adminpanel/editlist/class-pager.php:110
+#, php-format
+msgctxt "Total page number"
+msgid "/ %d"
+msgid_plural "/ %d"
+msgstr[0] ""
+
+#: assets/lws-adminpanel/lws-adminpanel.php:347
+msgid "At least one value is unknown."
+msgstr ""
+
+#: assets/lws-adminpanel/lws-adminpanel.php:441
+msgid "Used to get google fonts."
+msgstr ""
+
+#: assets/lws-adminpanel/lws-adminpanel.php:444
+msgid "Generate API Key"
+msgstr ""
+
+#: assets/lws-adminpanel/lws-adminpanel.php:445
+#, php-format
+msgid "or <a target='_blank' href='%s'>click here to Get a Google API KEY</a>"
+msgstr ""
+
+#: assets/lws-adminpanel/lws-adminpanel.php:448
+msgid "You MUST be logged in to your Google account to generate a key."
+msgstr ""
+
+#: assets/lws-adminpanel/lws-adminpanel.php:452
+msgid "Google account"
+msgstr ""
+
+#: assets/lws-adminpanel/lws-adminpanel.php:544
+#, php-format
+msgid ""
+"The trial period of plugin <b>%s</b> expired the <i>%s</i>. We hope you "
+"enjoyed it and expect you soon on <a href='%s' target='_blank'>%s</a>."
+msgstr ""
+
+#: assets/lws-adminpanel/lws-adminpanel.php:554
+msgid "Dismiss this notice"
+msgstr ""
+
+#: assets/lws-adminpanel/mailer.php:317
+msgid "This is a test."
+msgstr ""
+
+#: assets/lws-adminpanel/mailer.php:390
+#, fuzzy
+#| msgid "General Settings"
+msgid "Email Settings"
+msgstr "常规设置"
+
+#: assets/lws-adminpanel/mailer.php:390
+#, fuzzy, php-format
+#| msgid "General Settings"
+msgid "%s Email Settings"
+msgstr "常规设置"
+
+#: assets/lws-adminpanel/mailer.php:397
+msgid ""
+"\n"
+"\t\t\t\t\t\t\tOnce you've finished the email settings, <b>save your changes</"
+"b><br/>\n"
+"\t\t\t\t\t\t\tYou will then see the result in the style editor below<br/>\n"
+"\t\t\t\t\t\t\tSelect the elements you wish to change and have fun!\n"
+"\t\t\t\t\t\t"
+msgstr ""
+
+#: assets/lws-adminpanel/mailer.php:406
+#, fuzzy
+#| msgid "Header"
+msgid "Header picture"
+msgstr "标题"
+
+#: assets/lws-adminpanel/mailer.php:414
+msgid "Footer text"
+msgstr ""
+
+#: assets/lws-adminpanel/mailer.php:434
+#, fuzzy
+#| msgid "Emails"
+msgid "Email details"
+msgstr "电子邮件"
+
+#: assets/lws-adminpanel/mailer.php:439
+msgid "Subject"
+msgstr ""
+
+#: assets/lws-adminpanel/mailer.php:450
+#, fuzzy
+#| msgid "Header"
+msgid "Preheader"
+msgstr "标题"
+
+#: assets/lws-adminpanel/mailer.php:488
+msgid "Receiver Email"
+msgstr ""
+
+#: assets/lws-adminpanel/mailer.php:491
+msgid "Test your email to see how it looks"
+msgstr ""
+
+#: assets/lws-adminpanel/mailer.php:498
+msgid "Send test email"
+msgstr ""
+
+#: assets/lws-adminpanel/mailer.php:516
+msgid "Test email sent."
+msgstr ""
+
+#: assets/lws-adminpanel/mailer.php:519
+msgid "Test email is not valid."
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:455
+msgid "Changes not commited."
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:456
+msgid "Please confirm or cancel the active form before submit that page."
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:457
+msgid "Do you really want to delete the line?"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:458
+msgid "Update error, please check the values."
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:459
+msgid "An error occured, please try later."
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:460
+#, fuzzy
+#| msgid "Please, select a reward type."
+msgid "Please, select an item."
+msgstr "请选择奖励类型。"
+
+#: assets/lws-adminpanel/pages.php:461
+#, fuzzy
+#| msgid "Select a Category"
+msgid "Select a font"
+msgstr "选择种类"
+
+#: assets/lws-adminpanel/pages.php:462
+msgctxt "Font list"
+msgid "Show more"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:463
+msgctxt "Font list"
+msgid "Show less"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:465
+msgctxt "Font weight"
+msgid "Thin"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:466
+msgctxt "Font weight"
+msgid "Extra Light"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:467
+msgctxt "Font weight"
+msgid "Light"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:468 assets/lws-adminpanel/pages.php:469
+msgctxt "Font weight"
+msgid "Normal"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:470
+#, fuzzy
+#| msgid "Medium"
+msgctxt "Font weight"
+msgid "Medium"
+msgstr "中等"
+
+#: assets/lws-adminpanel/pages.php:471
+msgctxt "Font weight"
+msgid "Semi Bold"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:472
+msgctxt "Font weight"
+msgid "Bold"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:473
+msgctxt "Font weight"
+msgid "Extra Bold"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:474
+msgctxt "Font weight"
+msgid "Black"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:486
+msgid " didn't match any items"
+msgstr ""
+
+#: assets/lws-adminpanel/pages.php:487
+msgid "Show All Items"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:177
+#: assets/lws-adminpanel/pages/class-page.php:804 include/ui/admin.php:135
+msgid "Your settings have been saved."
+msgstr "您的设置已经被保存."
+
+#: assets/lws-adminpanel/pages/class-page.php:395
+#, fuzzy
+#| msgid "Reward Settings"
+msgid "Advanced Settings"
+msgstr "奖励设置"
+
+#: assets/lws-adminpanel/pages/class-page.php:572
+msgid "Documentation"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:573
+msgid "Other Plugins"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:574
+msgid "Support"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:575
+#, fuzzy
+#| msgid "Try the <a>Pro Version</a> for free for 30 days"
+msgid "Try the Pro Version for free"
+msgstr "免费试用 <a>专业版</a> 30天"
+
+#: assets/lws-adminpanel/pages/class-page.php:576
+msgid "Join Us on Discord"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:577
+msgid "Activate your license"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:578
+msgid "Watch our Youtube tutorials"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:584
+#: assets/lws-adminpanel/pages/class-page.php:588
+#: assets/lws-adminpanel/pages/class-page.php:643
+#: assets/lws-adminpanel/pages/class-page.php:647
+#, fuzzy
+#| msgid "https://plugins.longwatchstudio.com"
+msgid "https://plugins.longwatchstudio.com/"
+msgstr "https://plugins.longwatchstudio.com"
+
+#: assets/lws-adminpanel/pages/class-page.php:587
+#: assets/lws-adminpanel/pages/class-page.php:646
+#, fuzzy
+#| msgid "https://plugins.longwatchstudio.com/docs/woorewards/"
+msgid "https://plugins.longwatchstudio.com/documentation/"
+msgstr "https://plugins.longwatchstudio.com/docs/woorewards/"
+
+#: assets/lws-adminpanel/pages/class-page.php:619
+#, php-format
+msgid "%1$s Admin Panel %2$s"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:704
+msgctxt "Singular object edition screen"
+msgid "Delete element"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:705
+msgctxt "Singular object edition screen"
+msgid "I really want to delete it"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:706
+msgctxt "Singular object edition screen"
+msgid "Cancel"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:707
+msgctxt "Singular object edition screen"
+msgid "This element will be permanently removed. Are you sure?"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:708
+msgctxt "Singular object edition screen"
+msgid "Permanent deletion"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:725
+msgctxt "Singular object creation screen"
+msgid "Create"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:725
+msgctxt "Singular object edition screen"
+msgid "Update"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:733
+msgid "Publish"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:776
+msgid "Action rejected for current user. Insufficient capacities."
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:829
+msgctxt "post deletion"
+msgid "Unavailable action."
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:835
+msgctxt "post deletion"
+msgid "Security check failed."
+msgstr ""
+
+#: assets/lws-adminpanel/pages/class-page.php:841
+msgid "Element permanently removed."
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:25
+msgctxt "CSS margin tooltip"
+msgid ""
+"1 to 4 values accepted<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Sets a global margin of 5 pixels</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Sets top, right, bottom, "
+"left margins</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:33
+msgctxt "CSS padding tooltip"
+msgid ""
+"1 to 4 values accepted<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Sets a global padding of 5 pixels</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Sets top, right, bottom, "
+"left padding</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:41
+msgctxt "CSS border tooltip"
+msgid ""
+"1 to 4 values accepted<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Sets a global border size of 5 pixels</"
+"p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Sets top, right, bottom, "
+"left borders</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:49
+msgctxt "CSS radius tooltip"
+msgid ""
+"1 to 4 values accepted<br/>\n"
+"<p class='lwss-tooltip-exemple'>5px | Sets a global border radius of 5 "
+"pixels</p>\n"
+"<p class='lwss-tooltip-exemple'>1px 2px 3px 4px | Sets top, right, bottom, "
+"left border radius</p>"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:73
+msgctxt "CSS border size edition"
+msgid "Margin"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:75
+msgctxt "CSS border size editoin"
+msgid "Padding"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:77
+#, fuzzy
+#| msgid "Order"
+msgctxt "CSS border size editoin"
+msgid "Border"
+msgstr "订单"
+
+#: assets/lws-adminpanel/pages/field/class-border.php:79
+msgctxt "CSS border size editoin"
+msgid "Radius"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:81
+msgctxt "CSS color edition"
+msgid "Border Color"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:83
+msgctxt "CSS color edition"
+msgid "Background"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-border.php:155
+msgctxt "LWSS border text demo"
+msgid "This is a sample text"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:67
+msgctxt "LWSS button colors"
+msgid "Normal"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:68
+msgctxt "LWSS button colors"
+msgid "Over"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:69
+msgctxt "LWSS button colors"
+msgid "Focused"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:70
+msgctxt "LWSS button colors"
+msgid "Text"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:71
+msgctxt "LWSS button colors"
+msgid "Background"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:88
+msgctxt "CSS color edition"
+msgid "Normal Text"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:89
+msgctxt "CSS color edition"
+msgid "On Hover Text"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:90
+msgctxt "CSS color edition"
+msgid "On Click Text"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:95
+msgctxt "CSS color edition"
+msgid "Normal Background"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:96
+msgctxt "CSS color edition"
+msgid "On Hover Background"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-cssbutton.php:97
+msgctxt "CSS color edition"
+msgid "On Click Background"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-duration.php:83
+#, fuzzy
+#| msgid "Points Needed expects numeric value greater than zero."
+msgid "An integer value greater than zero."
+msgstr "所需积分，数值需大于零或留空。"
+
+#: assets/lws-adminpanel/pages/field/class-font.php:83
+msgctxt "LWSS font text demo"
+msgid "This is a sample text"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-googleapikey.php:24
+msgid "Your Google API key"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-googleapikey.php:26
+msgid "You should define a Google API key in this settings."
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-lacchecklist.php:39
+msgid "Select..."
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-media.php:30
+msgid "Remove"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-media.php:31
+#: assets/lws-adminpanel/pages/field/class-media.php:33
+#, fuzzy
+#| msgid "Select a reward"
+msgid "Select a media"
+msgstr "选择奖励"
+
+#: assets/lws-adminpanel/pages/field/class-media.php:32
+msgid "Use the selected item"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-media.php:34
+msgid "Edit..."
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-stygen.php:46
+msgid "Available Elements"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-stygen.php:47
+msgid "Select an element to start modifying its style"
+msgstr ""
+
+#: assets/lws-adminpanel/pages/field/class-stygen.php:48
+#, fuzzy
+#| msgid "Reset to %d"
+msgctxt "Stygen button"
+msgid "Reset Style"
+msgstr "重置为 %d"
+
+#: assets/lws-adminpanel/pages/field/class-stygen.php:130
+msgid "Snippet unknown"
+msgstr ""
+
+#: assets/lws-adminpanel/pseudocss.php:246
+msgid "Default CSS values"
+msgstr ""
+
+#: assets/lws-adminpanel/pseudocss.php:251
+#, fuzzy
+#| msgid "Reset to %d"
+msgctxt "Default css values"
+msgid "Reset"
+msgstr "重置为 %d"
+
+#: assets/lws-adminpanel/wizard.php:183
+#, php-format
+msgid ""
+"If you can see this, an error occured. Click %s here %s to resolve. Then "
+"restart the wizard."
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:196
+msgid "Leave the wizard"
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:196 assets/lws-adminpanel/wizard.php:996
+msgid "You can come back later and continue from that point."
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:350
+#, fuzzy
+#| msgid "Error occured during reward system saving."
+msgid "An error occured during form validation."
+msgstr "保存积分奖励系统时发生错误。"
+
+#: assets/lws-adminpanel/wizard.php:745
+#, php-format
+msgctxt "wizard critical path tab title with loop count"
+msgid "%s (%s)"
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:955
+msgctxt "previous wizard step"
+msgid "Previous"
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:968
+msgctxt "repeat a wizard portion"
+msgid "Add"
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:977
+msgctxt "next wizard step"
+msgid "Next"
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:981
+msgctxt "final wizard submit"
+msgid "Submit"
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:996
+msgid "Leave this wizard"
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:997
+msgid "You will lose all prepared settings."
+msgstr ""
+
+#: assets/lws-adminpanel/wizard.php:998
+msgid "Cancel this wizard"
+msgstr ""
+
+#: include/abstracts/event.php:66 include/ui/editlists/eventlist.php:16
+msgid "Action to perform"
+msgstr "达成目标"
+
+#: include/abstracts/event.php:68
+msgid "Action"
+msgstr ""
+
+#: include/abstracts/event.php:73
+#, fuzzy
+#| msgid "Action to perform"
+msgctxt "Event title"
+msgid "Action title"
+msgstr "达成目标"
+
+#: include/abstracts/event.php:80
+#, fuzzy
+#| msgid "Points cost"
+msgid "Points settings"
+msgstr "所需积分"
+
+#: include/abstracts/event.php:83
+msgctxt "Event point multiplier"
+msgid "Earned points"
+msgstr "获得积分"
+
+#: include/abstracts/event.php:112 include/ui/editlists/eventlist.php:14
+msgid "Earned points"
+msgstr "获得积分"
+
+#: include/abstracts/event.php:113 include/abstracts/event.php:264
+#: include/abstracts/unlockable.php:172 include/abstracts/unlockable.php:332
+#: include/core/pool.php:617 include/ui/widgets/pointsdisplayer.php:95
+msgid "Title"
+msgstr "标题"
+
+#: include/abstracts/event.php:259
+msgid "Error occured during rewarding event saving."
+msgstr "保存积分奖励获取事件时发生错误。"
+
+#: include/abstracts/event.php:487 include/abstracts/unlockable.php:773
+msgid "Standard"
+msgstr "普通"
+
+#: include/abstracts/event.php:488
+#, fuzzy
+#| msgid "Levelling"
+msgid "Leveling"
+msgstr "等级"
+
+#: include/abstracts/event.php:489
+msgid "Achievement"
+msgstr "成就"
+
+#: include/abstracts/event.php:490 include/abstracts/unlockable.php:775
+msgid "Events"
+msgstr "事件"
+
+#: include/abstracts/unlockable.php:84
+msgid "Reward Information"
+msgstr "奖励信息"
+
+#: include/abstracts/unlockable.php:86
+msgid "Reward type"
+msgstr "奖励类型"
+
+#: include/abstracts/unlockable.php:91
+msgctxt "Unlockable title"
+msgid "Title"
+msgstr "标题"
+
+#: include/abstracts/unlockable.php:98
+msgctxt "Unlockable title"
+msgid "Description"
+msgstr "描述"
+
+#: include/abstracts/unlockable.php:107
+msgctxt "Unlockable Thumbnail"
+msgid "Featured Image"
+msgstr "图片"
+
+#: include/abstracts/unlockable.php:120
+msgid "Reward Settings"
+msgstr "奖励设置"
+
+#: include/abstracts/unlockable.php:123
+msgctxt "Unlockable cost"
+msgid "Points needed"
+msgstr "所需积分"
+
+#: include/abstracts/unlockable.php:129
+msgctxt "Unlockable cost"
+msgid "Send Reward email"
+msgstr ""
+
+#: include/abstracts/unlockable.php:171
+msgid "Cost"
+msgstr "所需积分"
+
+#: include/abstracts/unlockable.php:173 include/abstracts/unlockable.php:334
+#: include/ui/admin.php:93 include/ui/shortcodes/userhistory.php:109
+msgid "Description"
+msgstr "描述"
+
+#: include/abstracts/unlockable.php:174
+msgid "Validity Starting Date"
+msgstr "有效期开始"
+
+#: include/abstracts/unlockable.php:175
+msgid "Validity Ending Date"
+msgstr "有效期截止"
+
+#: include/abstracts/unlockable.php:176
+msgid "Featured Image"
+msgstr "图片"
+
+#: include/abstracts/unlockable.php:177
+msgid "Enable Reward email"
+msgstr ""
+
+#: include/abstracts/unlockable.php:178
+msgid "Level Title"
+msgstr "等级名称"
+
+#: include/abstracts/unlockable.php:327
+msgid "Error occured during unlockable reward saving."
+msgstr "可解锁奖励保存时发生错误。"
+
+#: include/abstracts/unlockable.php:336
+msgid "Level"
+msgstr "等级"
+
+#: include/abstracts/unlockable.php:738
+msgctxt "Cannot be redeemed"
+msgid "Not redeemable"
+msgstr "不可兑换"
+
+#: include/abstracts/unlockable.php:740
+#, php-format
+msgctxt "Out of valid date range"
+msgid "%d [Delayed]"
+msgstr "%d [延期]"
+
+#: include/abstracts/unlockable.php:774
+msgid "Levelling"
+msgstr "等级"
+
+#: include/core/ajax.php:45
+#, fuzzy
+#| msgid "Loyalty system name"
+msgid "Loyalty system not found."
+msgstr "积分系统名称"
+
+#: include/core/ajax.php:56
+msgid "Point system or user not found."
+msgstr "未找到积分系统或客户。"
+
+#: include/core/ajax.php:59
+msgid "You do not have permission to see other history."
+msgstr "您不具备查看他人积分历史的权限。"
+
+#: include/core/pointstack.php:531
+#, php-format
+msgid "Points merged from %s"
+msgstr "积分由 %s 合并"
+
+#: include/core/pointstack.php:532
+msgid "Lost due to inactivity"
+msgstr "由于不活跃而损失"
+
+#: include/core/pool.php:612
+msgid "Error occured during reward system saving."
+msgstr "保存积分奖励系统时发生错误。"
+
+#: include/core/pool.php:670
+#, php-format
+msgid "Failed to delete the reward system <b>%s</b>/%s."
+msgstr "无法删除积分奖励系统<b>%s</b>/%s."
+
+#: include/core/pool.php:690
+#, php-format
+msgid "The reward system <b>%s</b>/%s successfully deleted."
+msgstr "奖励系统 <b>%s</b>/%s 已成功删除."
+
+#: include/events/firstorder.php:14
+msgid "The customer will receive points when placing his first order."
+msgstr ""
+
+#: include/events/firstorder.php:15
+msgid "Triggered only for registered customers"
+msgstr ""
+
+#: include/events/firstorder.php:21
+msgctxt "getDisplayType"
+msgid "Place a first order"
+msgstr "首个订单"
+
+#: include/events/firstorder.php:37 include/events/orderamount.php:45
+#: include/events/ordercompleted.php:38
+msgid "Priority"
+msgstr ""
+
+#: include/events/firstorder.php:38 include/events/orderamount.php:46
+#: include/events/ordercompleted.php:39
+msgid "Customer orders will run by ascending priority value."
+msgstr ""
+
+#: include/events/firstorder.php:66 include/events/orderamount.php:78
+#: include/events/ordercompleted.php:67
+msgid "Event Priority"
+msgstr ""
+
+#: include/events/firstorder.php:150 include/events/orderamount.php:265
+#: include/events/ordercompleted.php:136 include/events/productreview.php:209
+#: include/ui/admin.php:388 include/unlockables/coupon.php:486
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: include/events/firstorder.php:151 include/events/orderamount.php:267
+#: include/events/ordercompleted.php:137
+msgid "Order"
+msgstr "订单"
+
+#: include/events/firstorder.php:158
+#, php-format
+msgid "First customer order #%s"
+msgstr "客户的首个订单 #%s"
+
+#: include/events/orderamount.php:14
+msgid ""
+"The customer will receive points depending on the amount spent on the order"
+msgstr ""
+
+#: include/events/orderamount.php:15
+msgid "Most used method on WooRewards. Lots of options"
+msgstr ""
+
+#: include/events/orderamount.php:34
+#, php-format
+msgctxt "Order Amount Event money diviser"
+msgid "Money spent (%s)"
+msgstr "订单消费 (%s)"
+
+#: include/events/orderamount.php:138
+msgctxt "getDisplayType"
+msgid "Spend money"
+msgstr "消费"
+
+#: include/events/orderamount.php:214
+#, php-format
+msgid "Spent %1$s from order #%2$s"
+msgstr "订单 #%2$s 消费 %1$s"
+
+#: include/events/orderamount.php:255
+#, fuzzy, php-format
+#| msgctxt "Point per money spent"
+#| msgid "%1$s %2$s / %3$s"
+msgctxt "Point per money spent"
+msgid "%1$s / %2$s"
+msgstr "%1$s %2$s / %3$s"
+
+#: include/events/orderamount.php:266
+msgid "Money"
+msgstr "金额"
+
+#: include/events/ordercompleted.php:15
+msgid "The customer will receive points upon completing an order"
+msgstr ""
+
+#: include/events/ordercompleted.php:16
+msgid "This method can also be used to give extra points on a first order"
+msgstr ""
+
+#: include/events/ordercompleted.php:22
+msgctxt "getDisplayType"
+msgid "Place an order"
+msgstr "下单"
+
+#: include/events/ordercompleted.php:128
+#, php-format
+msgid "Order #%s completed"
+msgstr "订单 #%s 已完成"
+
+#: include/events/productreview.php:16
+msgid "The customer will earn points for writing a review on a product."
+msgstr ""
+
+#: include/events/productreview.php:17
+msgid ""
+"You can restrict this method to products already purchased by the customer"
+msgstr ""
+
+#: include/events/productreview.php:35
+msgid "Options"
+msgstr ""
+
+#: include/events/productreview.php:38 include/events/productreview.php:62
+#, fuzzy
+#| msgid "Dates are required"
+msgid "Purchase Required"
+msgstr "日期必填"
+
+#: include/events/productreview.php:39
+msgid ""
+"If checked, points are earned only if the customer already purchased the "
+"product and order status is 'Complete'."
+msgstr ""
+
+#: include/events/productreview.php:104
+#, fuzzy
+#| msgid "Products"
+msgctxt "getDisplayType"
+msgid "Product review"
+msgstr "商品"
+
+#: include/events/productreview.php:145
+#, php-format
+msgid "Review about a product (%s)"
+msgstr ""
+
+#: include/events/productreview.php:210
+#, fuzzy
+#| msgid "Products"
+msgid "Product"
+msgstr "商品"
+
+#: include/mails/newreward.php:32 include/mails/newreward.php:35
+msgid "New Reward"
+msgstr "新的奖励"
+
+#: include/mails/newreward.php:33
+msgid "Sent to customers when they receive a new reward"
+msgstr "当客户获得新的奖励时，发送给客户"
+
+#: include/mails/newreward.php:34
+msgid "You've received a new reward"
+msgstr "您收到一份新的奖励！"
+
+#: include/mails/newreward.php:36
+msgid "You just got a new reward !"
+msgstr "您刚刚获得一份新的奖励！"
+
+#: include/mails/newreward.php:37
+msgid "Powered by WooRewards"
+msgstr "咖啡妈北美放心购"
+
+#: include/mails/newreward.php:51
+msgid "That feature requires WooCommerce."
+msgstr "该功能需要安装 WooCommerce。"
+
+#: include/mails/newreward.php:67
+msgid "Expiration Date"
+msgstr "过期日期"
+
+#: include/mails/newreward.php:68
+msgid "Coupon Details"
+msgstr "优惠券详情"
+
+#: include/mails/newreward.php:69
+msgid "Coupon Code"
+msgstr "优惠码"
+
+#: include/mails/newreward.php:70
+msgid "Coupon Value"
+msgstr "优惠券价值"
+
+#: include/mails/newreward.php:74
+msgctxt "permanent coupon"
+msgid "(reusable)"
+msgstr "(可重复使用)"
+
+#: include/options.php:71
+msgid "Requested loyalty system cannot be loaded or created."
+msgstr "请求的积分系统无法载入或创建."
+
+#: include/options.php:105
+msgid "Please, set a <b>Title</b> for this Points and Rewards System."
+msgstr ""
+
+#: include/options.php:109
+msgid ""
+"A Points and Rewards System without a <b>Title</b> cannot be turned <b>On</"
+"b>."
+msgstr ""
+
+#: include/ui/admin.php:48
+msgid ""
+"WooCommerce Coupons are disabled. Several WooRewards features will be broken "
+"without Coupons."
+msgstr "WooCommerce 优惠券已禁用. 一些 WooRewards 功能将会因禁用而受到影响."
+
+#: include/ui/admin.php:49
+msgid ""
+"You can check your WooCommerce General Settings and look for : <b>Enable "
+"coupons</b>."
+msgstr "请查看 WooCommerce 一般设置，并寻找: <b>启用优惠券</b>."
+
+#: include/ui/admin.php:51
+#, php-format
+msgid "%1$s or %2$s this warning at your own risks."
+msgstr "%1$s 或 %2$s 警告需要您自行承担后果."
+
+#: include/ui/admin.php:55
+msgid "Click here to resolve the problem immediately"
+msgstr "点击这里立即解决问题"
+
+#: include/ui/admin.php:60
+msgid "ignore"
+msgstr "忽略"
+
+#: include/ui/admin.php:92 include/ui/admin.php:532
+msgid "Points History"
+msgstr "积分变动记录"
+
+#: include/ui/admin.php:94 include/ui/shortcodes/userhistory.php:108
+msgid "Date"
+msgstr "日期"
+
+#: include/ui/admin.php:95 include/ui/admin.php:715
+#: include/ui/shortcodes/userhistory.php:110
+#: include/ui/widgets/pointsdisplayer.php:199 woorewards.php:255
+msgid "Points"
+msgstr "积分"
+
+#: include/ui/admin.php:96
+msgid "Total"
+msgstr "总计"
+
+#: include/ui/admin.php:130
+msgid "Add fun and achievements for your customers with the <a>Pro Version</a>"
+msgstr "想让您的客户体验更多有趣的优惠和成就么？试试<a>专业版</a>"
+
+#: include/ui/admin.php:131
+msgid "Try the <a>Pro Version</a> for free for 30 days"
+msgstr "免费试用 <a>专业版</a> 30天"
+
+#: include/ui/admin.php:132
+msgid "The <a>Pro Version</a> adds Events and Levelling systems. Try <a>it</a>"
+msgstr "<a>专业版</a> 更有事件及等级管理系统，<a>试试看</a>"
+
+#. Plugin Name of the plugin/theme
+#: include/ui/admin.php:170
+msgid "WooRewards"
+msgstr "WooRewards"
+
+#: include/ui/admin.php:178 include/ui/admin.php:211 include/ui/admin.php:221
+msgid "Customers"
+msgstr "客户积分"
+
+#: include/ui/admin.php:196
+msgid "Search..."
+msgstr "搜索..."
+
+#: include/ui/admin.php:202
+msgid ""
+"The customers page lets you track your customers loyalty activity and "
+"perform some actions :"
+msgstr ""
+
+#: include/ui/admin.php:203
+msgid "See customers points and history"
+msgstr ""
+
+#: include/ui/admin.php:204
+msgid "See customers owned coupons"
+msgstr ""
+
+#: include/ui/admin.php:205
+#, fuzzy
+#| msgid "Add/Substract points"
+msgid "Add/Subtract Points"
+msgstr "增加/减少 积分"
+
+#: include/ui/admin.php:206
+msgid "Add/Remove Rewards (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:207
+msgid "Add/Remove Badges (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:208
+msgid "Filter by points, activity or inactivity periods (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:225
+msgid "Points Management"
+msgstr "积分管理"
+
+#: include/ui/admin.php:228
+msgid "Here you can see and manage your customers reward points"
+msgstr "您可以在这里查看和编辑客户的奖励积分"
+
+#: include/ui/admin.php:229
+msgid ""
+"You can view the points <b>history</b> by clicking the points total in the "
+"table"
+msgstr "您可以点击积分来查看积分变动记录"
+
+#: include/ui/admin.php:243
+msgid "Setup how customers will earn points and what rewards they can get."
+msgstr ""
+
+#: include/ui/admin.php:244
+msgid ""
+"In WooRewards Lite, there's only 3 ways to earn points (20+ in WooRewards "
+"Pro) :"
+msgstr ""
+
+#: include/ui/admin.php:246
+#, fuzzy
+#| msgid "Place an order"
+msgid "Place an order :"
+msgstr "每次下单"
+
+#: include/ui/admin.php:247
+msgid ""
+"Earn points when placing an order, independently of the order's amount. "
+msgstr ""
+
+#: include/ui/admin.php:249
+#, fuzzy
+#| msgid "Spend Money"
+msgid "Spend Money :"
+msgstr "消费金额"
+
+#: include/ui/admin.php:250
+msgid "Earn points when placing an order, depending on the order's amount."
+msgstr ""
+
+#: include/ui/admin.php:252
+#, fuzzy
+#| msgid "Free Product"
+msgid "Review a product :"
+msgstr "免费商品"
+
+#: include/ui/admin.php:253
+msgid "Earn points by reviewing a product on your website."
+msgstr ""
+
+#: include/ui/admin.php:256
+msgid ""
+"In WooRewards Lite, you can choose between 2 rewards (10+ in WooRewards "
+"Pro) :"
+msgstr ""
+
+#: include/ui/admin.php:258
+#, fuzzy
+#| msgid "Coupon"
+msgid "Coupon :"
+msgstr "优惠券"
+
+#: include/ui/admin.php:259
+msgid ""
+"Points are converted into WooCommerce coupons that customers can use on "
+"their cart."
+msgstr ""
+
+#: include/ui/admin.php:261
+#, fuzzy
+#| msgid "Points cost"
+msgid "Points on Cart :"
+msgstr "所需积分"
+
+#: include/ui/admin.php:262
+msgid ""
+"Set the value of a point and customers will use their points on the cart to "
+"get immediate discounts."
+msgstr ""
+
+#: include/ui/admin.php:268 include/ui/admin.php:283
+#, fuzzy
+#| msgctxt "Unlockable cost"
+#| msgid "Points needed"
+msgid "Points and Rewards"
+msgstr "所需积分"
+
+#: include/ui/admin.php:295
+msgid ""
+"Wizards are made to help you get started or create some specific loyalty "
+"systems more easily."
+msgstr ""
+
+#: include/ui/admin.php:296
+msgid ""
+"Select a wizard, follow the setup steps and everything will be generated "
+"automatically according to your preferences."
+msgstr ""
+
+#: include/ui/admin.php:297
+msgid "Here are the wizards available :"
+msgstr ""
+
+#: include/ui/admin.php:298
+#, fuzzy
+#| msgid "Standard System"
+msgid "Standard System :"
+msgstr "标准积分"
+
+#: include/ui/admin.php:299
+msgid "Set up a standard system to let customers win coupons"
+msgstr ""
+
+#: include/ui/admin.php:300
+#, fuzzy
+#| msgid "Leveling System"
+msgid "Leveling System :"
+msgstr "等级系统"
+
+#: include/ui/admin.php:301
+msgid ""
+"This wizard will help you create a bronze/silver/gold system (Pro Version "
+"Only)"
+msgstr ""
+
+#: include/ui/admin.php:302
+#, fuzzy
+#| msgid "Special Events"
+msgid "Special Events :"
+msgstr "特殊事件"
+
+#: include/ui/admin.php:303
+msgid "Loyalty systems for special occasions like Christmas (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:304
+#, fuzzy
+#| msgid "Double Points"
+msgid "Double Points :"
+msgstr "双倍积分"
+
+#: include/ui/admin.php:305
+msgid ""
+"Create an event where customers can earn twice the points (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:306 include/ui/admin.php:364
+#, fuzzy
+#| msgid "Sponsorship"
+msgid "Sponsorship :"
+msgstr "引荐"
+
+#: include/ui/admin.php:307
+msgid ""
+"Sponsors and sponsored are rewarded in this loyalty system (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:308
+#, fuzzy
+#| msgid "Customer Birthday or Registration Anniversary"
+msgid "Birthday or Anniversary "
+msgstr "客户生日或注册周年"
+
+#: include/ui/admin.php:309
+#, fuzzy
+#| msgid "Customer Birthday or Registration Anniversary"
+msgid ""
+"Send a special gift on customers birthday or registration anniversary (Pro "
+"Version Only)"
+msgstr "客户生日或注册周年"
+
+#: include/ui/admin.php:312 include/ui/admin.php:313
+msgid "Wizard"
+msgstr "向导"
+
+#: include/ui/admin.php:347
+msgid "Pending payment"
+msgstr ""
+
+#: include/ui/admin.php:348
+msgid "Processing"
+msgstr ""
+
+#: include/ui/admin.php:349
+msgid "On hold"
+msgstr ""
+
+#: include/ui/admin.php:350
+msgid "Completed"
+msgstr ""
+
+#: include/ui/admin.php:351
+msgid "Cancelled"
+msgstr ""
+
+#: include/ui/admin.php:352
+msgid "Refunded"
+msgstr ""
+
+#: include/ui/admin.php:353
+msgid "Failed"
+msgstr ""
+
+#: include/ui/admin.php:361
+msgid "Activate and set up different WooRewards features in this section : "
+msgstr ""
+
+#: include/ui/admin.php:362
+#, fuzzy
+#| msgid "WooCommerce"
+msgid "WooCommerce :"
+msgstr "WooCommerce"
+
+#: include/ui/admin.php:363
+msgid ""
+"WooCommerce related rules and additional loyalty information on woocommerce "
+"pages"
+msgstr ""
+
+#: include/ui/admin.php:365
+msgid "Set up the sponsorship options (Pro Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:366
+#, fuzzy
+#| msgctxt "Option Group"
+#| msgid "Achievements"
+msgid "Badges and Achievements :"
+msgstr "成就"
+
+#: include/ui/admin.php:367
+msgid ""
+"Create and manage user badges, achievements and badges rarity (Pro Version "
+"Only)"
+msgstr ""
+
+#: include/ui/admin.php:368
+msgid "API :"
+msgstr ""
+
+#: include/ui/admin.php:369
+msgid ""
+"Set up the API to connect WooRewards with a third party app (Pro Version "
+"Only)"
+msgstr ""
+
+#: include/ui/admin.php:373 include/ui/admin.php:374
+#, fuzzy
+#| msgid "Featured Image"
+msgid "Features"
+msgstr "图片"
+
+#: include/ui/admin.php:394
+msgid "General settings"
+msgstr "常规设置"
+
+#: include/ui/admin.php:395
+msgid ""
+"Check the options below according to your needs. If you want to exclude "
+"shipping fees from points calculation, it can be done inside your loyalty "
+"systems."
+msgstr ""
+
+#: include/ui/admin.php:400
+msgid "Includes taxes"
+msgstr "包括税费"
+
+#: include/ui/admin.php:404
+msgid ""
+"If checked, taxes will be included in the points earned when spending money"
+msgstr "如果选取，客户所支付金额中的税费也会计算为积分"
+
+#: include/ui/admin.php:409
+msgid "Order statuses for points"
+msgstr ""
+
+#: include/ui/admin.php:413
+#, fuzzy
+#| msgid ""
+#| "Default state to get points is the processing order status.<br/>If you "
+#| "want to use the complete order status instead (recommanded), check the "
+#| "below box"
+msgid ""
+"Default state to get points is the processing order status.<br/>If you want "
+"to use other statuses instead (recommanded), select them here"
+msgstr ""
+"默认情况下，订单状态为 ”正在处理“ 时即计算积分. <br/>如果您想设置为当订单状态"
+"变为 ”已完成“ 后再计算积分(推荐)，请勾选下方设置"
+
+#: include/ui/admin.php:428
+msgid ""
+"Set the appearance of everything your customers will see on your website "
+"regarding loyalty systems : "
+msgstr ""
+
+#: include/ui/admin.php:429
+#, fuzzy
+#| msgid "Widgets"
+msgid "Widgets :"
+msgstr "小工具"
+
+#: include/ui/admin.php:430
+msgid "Setup the widgets/shortcodes options and appearance"
+msgstr ""
+
+#: include/ui/admin.php:431
+#, fuzzy
+#| msgid "Emails"
+msgid "Emails :"
+msgstr "电子邮件"
+
+#: include/ui/admin.php:432
+msgid "Customize emails sent to your customers"
+msgstr ""
+
+#: include/ui/admin.php:433
+msgid "Popup :"
+msgstr ""
+
+#: include/ui/admin.php:434
+msgid ""
+"Setup the popup that your customers see when they unlock a reward (Pro "
+"Version Only)"
+msgstr ""
+
+#: include/ui/admin.php:437 include/ui/admin.php:438
+msgid "Appearance"
+msgstr ""
+
+#: include/ui/admin.php:452
+msgid "Widgets"
+msgstr "小工具"
+
+#: include/ui/admin.php:458
+msgid "Display Points Widget"
+msgstr "显示积分小工具"
+
+#: include/ui/admin.php:460
+msgid ""
+"In this Widget, customers can see their Reward Points available, as well as "
+"a link to the 'My Account' page to see more details."
+msgstr ""
+"使用小工具，客户可以查看有效的奖励积分，也可以点击链接进入“我的账号”中相关页"
+"面查看详情。"
+
+#: include/ui/admin.php:464
+msgid "Text displayed if user not connected"
+msgstr "当用户未加入时所显示的文字"
+
+#: include/ui/admin.php:468 include/ui/widgets/pointsdisplayer.php:264
+msgid "Please log in if you want to see your loyalty points"
+msgstr "请登入后查看您的奖励与积分"
+
+#: include/ui/admin.php:479
+msgid ""
+"Here you can customize the look and displayed text of the shortcode/widget"
+msgstr "您可以在这里自定义 短代码/小工具 中所显示的样式及文字"
+
+#: include/ui/admin.php:492 include/ui/admin.php:497
+msgid "Shortcodes"
+msgstr ""
+
+#: include/ui/admin.php:499
+msgid ""
+"In this section, you will find various shortcodes you can use on your "
+"website."
+msgstr ""
+
+#: include/ui/admin.php:503
+#, fuzzy
+#| msgid "WooRewards Points Displayer"
+msgid "Simple Points Display"
+msgstr "WooRewards 积分显示器"
+
+#: include/ui/admin.php:507
+msgid ""
+"This simple shortcode is used to display the user's points with no "
+"decoration."
+msgstr ""
+
+#: include/ui/admin.php:508
+msgid ""
+"This is very convenient if you want to display points within a phrase for "
+"example."
+msgstr ""
+
+#: include/ui/admin.php:513
+#, fuzzy
+#| msgid "Display Points Widget"
+msgid "Display Points"
+msgstr "显示积分小工具"
+
+#: include/ui/admin.php:517
+msgid ""
+"This shortcode shows to customers the points they have on a loyalty system."
+msgstr ""
+
+#: include/ui/admin.php:521
+#, fuzzy
+#| msgid "Text displayed if user not connected"
+msgid "The text displayed before the points."
+msgstr "当用户未加入时所显示的文字"
+
+#: include/ui/admin.php:525
+msgid ""
+"(Optional) If set, the number of points displayed will show the points "
+"currency."
+msgstr ""
+
+#: include/ui/admin.php:536
+msgid "This shortcode displays a user's points history."
+msgstr ""
+
+#: include/ui/admin.php:540
+msgid "(Optional) The number of rows displayed. Default is 15."
+msgstr ""
+
+#: include/ui/admin.php:551
+msgid "Emails"
+msgstr "电子邮件"
+
+#: include/ui/admin.php:563
+msgid "Manage your license and different system related options :"
+msgstr ""
+
+#: include/ui/admin.php:564
+#, fuzzy
+#| msgid "Points Management"
+msgid "Data Management :"
+msgstr "积分管理"
+
+#: include/ui/admin.php:565
+msgid "Manage WooRewards data in the database, process past orders"
+msgstr ""
+
+#: include/ui/admin.php:566
+msgid "License :"
+msgstr ""
+
+#: include/ui/admin.php:567
+msgid "Manage your license and subscription"
+msgstr ""
+
+#: include/ui/admin.php:570 include/ui/admin.php:571
+#, fuzzy
+#| msgid "Loyalty System"
+msgid "System"
+msgstr "积分系统"
+
+#: include/ui/admin.php:584
+#, fuzzy
+#| msgid "Points Management"
+msgid "Data Management"
+msgstr "积分管理"
+
+#: include/ui/admin.php:590
+msgid "Give Points for Past orders"
+msgstr "为以往订单发放积分"
+
+#: include/ui/admin.php:591
+msgid ""
+"If you want to give points for orders that pre-existed your loyalty system, "
+"you can do it here"
+msgstr "如果您想为积分系统建立前已存在的订单发放积分，您可以在这里实现"
+
+#: include/ui/admin.php:592
+msgid ""
+"This operation can take several minutes. Depending on you server "
+"configuration and date range, you should run this operation several times on "
+"short dates ranges."
+msgstr ""
+"该操作将会执行数分钟。取决于服务器设置及时间范围，您可以尝试缩短时间范围并多"
+"次执行本操作。"
+
+#: include/ui/admin.php:596
+msgid "Start date"
+msgstr "开始日期"
+
+#: include/ui/admin.php:607
+msgid "End date"
+msgstr "结束日期"
+
+#: include/ui/admin.php:618
+msgid "Launch the procedure"
+msgstr "执行发放"
+
+#: include/ui/admin.php:643 include/ui/editlists/multiformlist.php:124
+msgid "Information"
+msgstr "信息"
+
+#: include/ui/admin.php:645
+#, fuzzy
+#| msgid ""
+#| "WooRewards Standard uses WooCommerce <i>orders</i> and <i>coupons</i>.\n"
+#| "<br/>You should install <a href='https://wordpress.org/plugins/"
+#| "woocommerce/' target='_blank'>WooCommerce</a> to have them active.\n"
+#| "<br/>Or <a href='https://plugins.longwatchstudio.com/product/woorewards/' "
+#| "target='_blank'>upgrade <b>WooRewards</b> to the <b>Pro</b> version</a>\n"
+#| "and enjoy new ways to earn points (social media, sponsoring... with or "
+#| "without WooCommerce) and a lot of new reward types !"
+msgid ""
+"WooRewards Standard uses WooCommerce <i>orders</i> and <i>coupons</i>.\n"
+"\t\t\t\t\t\t\t<br/>You should install <a href='https://wordpress.org/plugins/"
+"woocommerce/' target='_blank'>WooCommerce</a> to have them active.\n"
+"\t\t\t\t\t\t\t<br/>Or <a href='https://plugins.longwatchstudio.com/product/"
+"woorewards/' target='_blank'>upgrade <b>WooRewards</b> to the <b>Pro</b> "
+"version</a>\n"
+"\t\t\t\t\t\t\tand enjoy new ways to earn points (social media, sponsoring... "
+"with or without WooCommerce) and a lot of new reward types !"
+msgstr ""
+"WooRewards 基础版使用 WooCommerce <i>的订单</i> 和 <i>优惠券</i>.\n"
+"<br/>您需要安装 <a href='https://wordpress.org/plugins/woocommerce/' "
+"target='_blank'>WooCommerce</a>.\n"
+"<br/>或<a href='https://plugins.longwatchstudio.com/product/woorewards/' "
+"target='_blank'>升级 <b>WooRewards</b> 到 <b>专业版</b></a>\n"
+"然后即可体验更多新颖的积分获取方式 (社交媒体, 引荐... 已安装/未安装 "
+"WooCommerce 均可) 以及更多的奖励种类 !"
+
+#: include/ui/admin.php:677
+#, php-format
+msgid ""
+"It seems the prefab pool does not exists. Please run the <a%s>wizard</a> to "
+"create one."
+msgstr "似乎预设积分池类型不存在。请运行<a%s>向导</a>来创建一个。"
+
+#: include/ui/admin.php:681
+#, php-format
+msgid ""
+"No loyalty system available. Please run the <a%s>wizard</a> to install "
+"default one."
+msgstr "没有有效积分系统，请运行<a%s>向导</a>来安装一个默认积分系统。"
+
+#: include/ui/admin.php:687
+msgid ""
+"It seems the prefab pool does not exists. Try to re-activate this plugin. If "
+"the problem persists, contact your administrator."
+msgstr ""
+"似乎预设积分池类型不存在。请尝试重新激活插件，如果问题依旧，请联系系统管理"
+"员。"
+
+#: include/ui/admin.php:688
+msgid ""
+"No loyalty system available. Try to re-activate the WooRewards plugin to "
+"install default ones."
+msgstr "没有有效积分系统，请重新激活 WooRewards 插件来安装一个默认积分系统。"
+
+#: include/ui/admin.php:694
+msgid "Loading failure"
+msgstr "载入失败"
+
+#: include/ui/admin.php:707
+msgid "General Settings"
+msgstr "常规设置"
+
+#: include/ui/admin.php:709
+msgid ""
+"Before activating your loyalty program, make sure you've read the "
+"documentation. You will find links to the documentation on the top right of "
+"each group."
+msgstr ""
+
+#: include/ui/admin.php:718
+msgid "Here you can manage how your customers earn loyalty points"
+msgstr "您可以在这里管理客户获取忠诚度积分的方式"
+
+#: include/ui/admin.php:730 include/ui/editlists/userspoints.php:18
+#: woorewards.php:358
+msgid "Rewards"
+msgstr "奖励"
+
+#: include/ui/admin.php:733
+msgid ""
+"Here you can manage the rewards for your customers. Rewards can either be "
+"automatically generated WooCommerce Coupons or points usable on cart for "
+"immediate discounts"
+msgstr ""
+
+#: include/ui/admin.php:739
+#, fuzzy
+#| msgid "Reward type"
+msgid "Reward Type"
+msgstr "奖励类型"
+
+#: include/ui/admin.php:745
+#, fuzzy
+#| msgid "WooCommerce"
+msgid "WooCommerce Coupon"
+msgstr "WooCommerce"
+
+#: include/ui/admin.php:746
+#, fuzzy
+#| msgid "Points cost"
+msgid "Points on Cart"
+msgstr "所需积分"
+
+#: include/ui/admin.php:755
+#, php-format
+msgid "Point Value in %s"
+msgstr ""
+
+#: include/ui/admin.php:757
+msgid ""
+"Each point spent on the cart will decrease the order total of that value"
+msgstr ""
+
+#: include/ui/admin.php:764 include/unlockables/coupon.php:487
+msgid "Coupon"
+msgstr "优惠券"
+
+#: include/ui/admin.php:788
+msgid ""
+"Watch our <a target='_blank' href='https://youtu.be/yl9WyGOGd_I'>youtube "
+"tutorial</a> to help you set up your loyalty program"
+msgstr ""
+"观看我们的 <a target='_blank' href='https://youtu.be/yl9WyGOGd_I'>Youtube 教"
+"学视频</a> 来帮助您设置积分系统"
+
+#: include/ui/admin.php:827
+msgctxt "pool enabled switch"
+msgid "Off"
+msgstr "停用"
+
+#: include/ui/admin.php:828
+msgctxt "pool enabled switch"
+msgid "On"
+msgstr "启用"
+
+#: include/ui/admin.php:836
+msgctxt "Pool title"
+msgid "Title"
+msgstr "名称"
+
+#: include/ui/admin.php:850 include/ui/admin.php:851
+msgid "Dates are required"
+msgstr "日期必填"
+
+#: include/ui/admin.php:892
+#, php-format
+msgid "<b>%s</b> order(s) processed."
+msgstr "<b>%s</b> 订单已处理."
+
+#: include/ui/editlists/eventlist.php:15
+#: include/ui/editlists/unlockablelist.php:16
+msgid "Public title"
+msgstr "展示名称"
+
+#: include/ui/editlists/eventlist.php:51
+#, fuzzy
+#| msgid "Action to perform"
+msgid "Action to perform to earn points"
+msgstr "达成目标"
+
+#: include/ui/editlists/eventlist.php:55
+#, fuzzy
+#| msgid "Points added to user."
+#| msgid_plural "Points added to users."
+msgid "Points value and options"
+msgstr "为客户增加的积分。"
+
+#: include/ui/editlists/eventlist.php:84
+msgctxt "Option Group"
+msgid "Orders"
+msgstr "订单"
+
+#: include/ui/editlists/eventlist.php:85
+msgctxt "Option Group"
+msgid "Products"
+msgstr "商品"
+
+#: include/ui/editlists/eventlist.php:86
+msgctxt "Option Group"
+msgid "Periodic"
+msgstr "周期"
+
+#: include/ui/editlists/eventlist.php:87
+msgctxt "Option Group"
+msgid "Website"
+msgstr "网站"
+
+#: include/ui/editlists/eventlist.php:88
+msgctxt "Option Group"
+msgid "Sharing"
+msgstr "分享"
+
+#: include/ui/editlists/eventlist.php:89
+msgctxt "Option Group"
+msgid "Sponsorship"
+msgstr "引荐"
+
+#: include/ui/editlists/eventlist.php:90
+msgctxt "Option Group"
+msgid "Achievements"
+msgstr "成就"
+
+#: include/ui/editlists/eventlist.php:91
+#: include/ui/editlists/unlockablelist.php:89
+msgctxt "Option Group"
+msgid "WooVIP"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:92
+#: include/ui/editlists/unlockablelist.php:88
+msgctxt "Option Group"
+msgid "WooVirtualWallet"
+msgstr ""
+
+#: include/ui/editlists/eventlist.php:109
+msgid "The selected Earning Points System cannot be found."
+msgstr "无法找到选择的积分赚取系统。"
+
+#: include/ui/editlists/eventlist.php:111
+msgid ""
+"Earning Points System Type cannot be changed. Delete this and create a new "
+"one instead."
+msgstr ""
+"当前积分赚取系统的类型无法变更，不过可以尝试删除并以另一种类型来重新创建一个."
+
+#: include/ui/editlists/eventlist.php:117
+msgid "The selected Earning Points System type cannot be found."
+msgstr "无法找到选择的积分赚取系统。"
+
+#: include/ui/editlists/eventlist.php:140
+msgid "The selected Earning Point System cannot be found."
+msgstr "无法找到选择的积分赚取系统。"
+
+#: include/ui/editlists/multiformlist.php:125
+msgid "Select an element below to see more information about it"
+msgstr ""
+
+#: include/ui/editlists/multiformlist.php:126
+msgid "You will have some extra information displayed if need be."
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:15
+msgid "Points cost"
+msgstr "所需积分"
+
+#: include/ui/editlists/unlockablelist.php:17
+#, fuzzy
+#| msgid "Reward descriptions"
+msgid "Reward description"
+msgstr "奖励描述"
+
+#: include/ui/editlists/unlockablelist.php:39
+#, fuzzy
+#| msgid "Select a reward"
+msgid "Select the Reward"
+msgstr "选择奖励"
+
+#: include/ui/editlists/unlockablelist.php:43
+#, fuzzy
+#| msgid "Select a reward"
+msgid "Setup the Reward"
+msgstr "选择奖励"
+
+#: include/ui/editlists/unlockablelist.php:86
+#, fuzzy
+#| msgid "Coupon"
+msgctxt "Option Group"
+msgid "Coupons"
+msgstr "优惠券"
+
+#: include/ui/editlists/unlockablelist.php:87
+msgctxt "Option Group"
+msgid "User's status"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:90
+msgctxt "Option Group"
+msgid "Miscellaneous"
+msgstr ""
+
+#: include/ui/editlists/unlockablelist.php:122
+#: include/ui/editlists/unlockablelist.php:158
+msgid "The selected reward cannot be found."
+msgstr "无法找到选择的奖励。"
+
+#: include/ui/editlists/unlockablelist.php:124
+msgid ""
+"The reward type cannot be changed. Delete this and create a new one instead."
+msgstr "奖励类型无法变更，请尝试删除后已新的类型重新创建。"
+
+#: include/ui/editlists/unlockablelist.php:130
+msgid "The selected reward type cannot be found."
+msgstr "无法找到选择的奖励。"
+
+#: include/ui/editlists/userspoints.php:16
+msgid "Users"
+msgstr "客户"
+
+#: include/ui/editlists/userspointsbulkaction.php:14
+msgid ""
+"Enter '=42' to set a total of 42 points to selected users instead of adding "
+"it to current amounts."
+msgstr "输入'=42' 来将选择的客户的积分统一调整为42，而不是增加到已有积分上."
+
+#: include/ui/editlists/userspointsbulkaction.php:15
+#, fuzzy
+#| msgid "Add/Substract points"
+msgid "Add/Subtract points"
+msgstr "增加/减少 积分"
+
+#: include/ui/editlists/userspointsbulkaction.php:52
+msgid "Cannot load default loyalty system."
+msgstr "无法载入默认的积分系统。"
+
+#: include/ui/editlists/userspointsbulkaction.php:58
+msgid "Commercial operation"
+msgstr "商家设置"
+
+#: include/ui/editlists/userspointsbulkaction.php:69
+msgid "Points added to user."
+msgid_plural "Points added to users."
+msgstr[0] "为客户增加的积分。"
+
+#: include/ui/editlists/userspointsbulkaction.php:71
+msgid "A reward was generated."
+msgid_plural "Few rewards generated."
+msgstr[0] "已生成一张优惠券。"
+
+#: include/ui/shortcodes/userhistory.php:107 include/wizards/standard.php:246
+#: woorewards.php:345
+msgid "Loyalty System"
+msgstr "积分系统"
+
+#: include/ui/widgets/pointsdisplayer.php:44
+msgid "WooRewards Points Displayer"
+msgstr "WooRewards 积分显示器"
+
+#: include/ui/widgets/pointsdisplayer.php:46
+msgid "Let your customers see their points."
+msgstr "客户可查看积分。"
+
+#: include/ui/widgets/pointsdisplayer.php:98
+#: include/ui/widgets/pointsdisplayer.php:168
+msgctxt "frontend"
+msgid "Current Points"
+msgstr "当前积分"
+
+#: include/ui/widgets/pointsdisplayer.php:104
+msgid "Header"
+msgstr "标题"
+
+#: include/ui/widgets/pointsdisplayer.php:120
+#, fuzzy
+#| msgid "Select Loyalty System"
+msgid "Select a Loyalty System"
+msgstr "选择积分系统"
+
+#: include/ui/widgets/pointsdisplayer.php:129
+msgid "Force display for all users"
+msgstr ""
+
+#: include/ui/widgets/pointsdisplayer.php:137
+#, fuzzy
+#| msgid "Display Points Widget"
+msgid "Display the Points currency"
+msgstr "显示积分小工具"
+
+#: include/ui/widgets/pointsdisplayer.php:144
+msgid "A <i>More details</i> page URL"
+msgstr "<i>更多信息</i> 页面网址"
+
+#: include/ui/widgets/pointsdisplayer.php:241
+msgid "More Details"
+msgstr "查看详情"
+
+#: include/unlockables/coupon.php:15
+msgid ""
+"The customer will receive a WooCommerce Coupon, either for a fix discount or "
+"a percentage one."
+msgstr ""
+
+#: include/unlockables/coupon.php:16
+msgid "The generated coupon can be used like any other WooCommerce coupon."
+msgstr ""
+
+#: include/unlockables/coupon.php:36
+msgctxt "Coupon Unlockable"
+msgid "Discount type"
+msgstr "折扣类型"
+
+#: include/unlockables/coupon.php:40
+msgid "Fixed cart discount"
+msgstr "购物车固定金额折扣"
+
+#: include/unlockables/coupon.php:40
+msgid "Percentage discount"
+msgstr "百分比折扣"
+
+#: include/unlockables/coupon.php:49
+msgctxt "Coupon Unlockable"
+msgid "Coupon amount"
+msgstr "优惠券金额"
+
+#: include/unlockables/coupon.php:56
+msgctxt "Coupon Unlockable"
+msgid "Validity period"
+msgstr "有效期"
+
+#: include/unlockables/coupon.php:85
+msgid "Validity period"
+msgstr "有效期"
+
+#: include/unlockables/coupon.php:86
+msgid "Coupon amount"
+msgstr "优惠券金额"
+
+#: include/unlockables/coupon.php:87
+msgid "Discount in percent or fixed price"
+msgstr "基于百分比或固定金额的折扣"
+
+#: include/unlockables/coupon.php:157
+msgctxt "getDisplayType"
+msgid "Fixed/Percentage discount"
+msgstr "固定金额/百分比 折扣"
+
+#: include/unlockables/coupon.php:183
+#, php-format
+msgid "%s discount on an order"
+msgstr "订单金额可享 %s 折扣"
+
+#: include/unlockables/coupon.php:193
+#, php-format
+msgid "valid up to %s"
+msgstr "有效至多 %s"
+
+#: include/unlockables/coupon.php:200
+#, php-format
+msgid "valid for %1$d %2$s"
+msgstr "有效期 %1$d %2$s"
+
+#: include/unlockables/coupon.php:230
+msgid " (excl. tax)"
+msgstr ""
+
+#: include/unlockables/coupon.php:234
+msgid " (incl. tax)"
+msgstr ""
+
+#: include/unlockables/coupon.php:259
+msgctxt "Cannot be bought cause no discount"
+msgid "No discount"
+msgstr "未设置"
+
+#: include/unlockables/coupon.php:284
+msgid "TESTCODE"
+msgstr "优惠码示例"
+
+#: include/unlockables/coupon.php:303
+#, php-format
+msgid "Coupon code : %s"
+msgstr "优惠码: %s"
+
+#: include/unlockables/coupon.php:428
+msgid "Customer Email"
+msgstr "客户电子邮件"
+
+#: include/unlockables/coupon.php:463
+msgid "No coupon"
+msgstr "暂无优惠券"
+
+#: include/unlockables/coupon.php:473
+msgid "See coupons"
+msgstr "查看优惠券"
+
+#: include/unlockables/coupon.php:488
+msgctxt "unlockable category"
+msgid "Sponsored"
+msgstr "被引荐人"
+
+#: include/updater.php:77
+msgctxt "link to licence tab in admin notice"
+msgid "here"
+msgstr "这里"
+
+#: include/updater.php:81
+msgctxt "link to plugin selling site"
+msgid "Long Watch Studio - WooRewards"
+msgstr "Long Watch Studio - WooRewards"
+
+#: include/updater.php:85
+msgid ""
+"<p>You just installed or updated the <b>WooRewards Lite</b> version.</p>"
+msgstr "<p>您刚刚安装或更新了<b> WooRewards 精简版</b>.</p>"
+
+#: include/updater.php:87
+#, php-format
+msgid ""
+"<p>Do you have a <b>licence key</b> (for Trial or Pro version)? Think about "
+"setting it %s and discover all the possibilities of WooRewards.</p>"
+msgstr ""
+"<p>是否已经拥有 <b>授权码</b> (试用版或专业版)? 可以开始考虑如何设置 %s 以及"
+"发现 WooRewards 更多潜在的可能性.</p>"
+
+#: include/updater.php:91
+#, php-format
+msgid "<p>Or try the Trial version for free by ordering it on %s.</p>"
+msgstr "<p>或者可以从 %s 免费获取试用版.</p>"
+
+#: include/updater.php:295 include/wizard.php:132
+#: include/wizards/standard.php:26 include/wizards/standard.php:54
+#: include/wizards/standard.php:247 include/wizards/standard.php:336
+msgid "Standard System"
+msgstr "标准积分"
+
+#: include/updater.php:353
+msgid ""
+"Your settings have been migrated during WooRewards update.\n"
+"We tried our best to conserve the same behavior as before but we advise you "
+"to check them anyway."
+msgstr ""
+"由于WooRewards升级，您的设置已经被迁移到新的版本.\n"
+"我们已尽最大努力来保持所有的设置与之前的执行效果一致，不过还是建议您仔细检查"
+"一下."
+
+#: include/wizard.php:25
+msgid "Loyalty System Setup"
+msgstr "积分系统设置向导"
+
+#: include/wizard.php:85
+msgid "Choose a Wizard"
+msgstr "选择向导"
+
+#: include/wizard.php:89
+msgid "Settings…"
+msgstr "设置"
+
+#: include/wizard.php:133
+msgid ""
+"The standard system is the most common loyalty system available. Users earn "
+"points by performing various actions. When they have enough points, they can "
+"unlock rewards such as discount coupons."
+msgstr ""
+"标准积分是可用积分系统中最常用的一种。用户可经由多种方式获取积分。当用户获得"
+"足够积分，将可解锁各种奖励，比如折扣券等。"
+
+#: include/wizard.php:142
+msgid "Leveling System"
+msgstr "等级系统"
+
+#: include/wizard.php:143
+msgid ""
+"Leveling systems works differently than standard systems. Users earn points "
+"by performing various actions. But they don't spend their points. Instead, "
+"they reach different levels and unlock all rewards set at a level when they "
+"have enough points."
+msgstr ""
+"等级积分系统不同于标准积分系统。用户可经由多种方式获得积分，但用户不能 “使"
+"用” 积分。相应的，用户可以通过累积积分，达到不同等级后来解锁该等级对应的奖"
+"励。"
+
+#: include/wizard.php:153
+msgid "Special Events"
+msgstr "特殊事件"
+
+#: include/wizard.php:154
+msgid ""
+"Use the special events wizard to create temporary loyalty programs for "
+"various occasions. This wizard proposes scenarios for the following events :"
+msgstr ""
+"使用特殊事件向导来为偶发性活动创建临时的积分系统。本向导可以用于以下事件场"
+"景："
+
+#: include/wizard.php:156
+msgid "Black Friday"
+msgstr "黑五"
+
+#: include/wizard.php:157
+msgid "Christmas"
+msgstr "圣诞节"
+
+#: include/wizard.php:158
+msgid "Easter"
+msgstr "复活节"
+
+#: include/wizard.php:168
+msgid "Double Points"
+msgstr "双倍积分"
+
+#: include/wizard.php:169
+msgid ""
+"Create a special event and allow customers to earn twice the points for a "
+"limited period of time. You can also choose to allow users with a special "
+"role to earn twice the points. Or both."
+msgstr ""
+"创建一个特殊事件积分系统，允许用户在限定时间内获得双倍积分。您也可以选择并设"
+"置具有特定角色权限的用户获得双倍积分。当然，您也可以双管齐下。"
+
+#: include/wizard.php:179
+msgid "Sponsorship"
+msgstr "引荐"
+
+#: include/wizard.php:180
+msgid ""
+"Add a loyalty system that rewards customers for sponsoring new people on "
+"your website. Sponsored also receive a reward to encourage them to subscribe "
+"and buy on your website."
+msgstr ""
+"增加一个积分系统，以答谢引荐新朋友到访网站的客户。被引荐的用户也将收到奖励，"
+"以激励他们订阅或在您的网站上进行消费。"
+
+#: include/wizard.php:190
+msgid "Customer Birthday or Registration Anniversary"
+msgstr "客户生日或注册周年"
+
+#: include/wizard.php:191
+msgid ""
+"Celebrate your customers birthday or registration anniversary by sending "
+"them a discount coupon on that occasion. Really easy to set up and very "
+"appreciated by customers."
+msgstr ""
+"抓住机会，为您的客户庆祝生日或注册周年。给他们送去一张优惠券，您的客户会非常"
+"高兴，但对您来说却只是小事一桩。"
+
+#: include/wizards/standard.php:28 include/wizards/standard.php:254
+msgid "Methods to earn points"
+msgstr "积分获取方式"
+
+#: include/wizards/standard.php:30 include/wizards/standard.php:273
+#: woorewards.php:359
+msgid "Reward"
+msgstr "奖励"
+
+#: include/wizards/standard.php:32
+msgid "Summary"
+msgstr "总览"
+
+#: include/wizards/standard.php:43
+msgid ""
+"Welcome to this Wizard. This tool will help you configure your first loyalty "
+"system in less than 5 minutes."
+msgstr "欢迎使用向导。我们将帮助您在5分钟内设置好您的第一个积分系统。"
+
+#: include/wizards/standard.php:44
+msgid "This wizard is limited for WooRewards Standard."
+msgstr "本向导仅适用于 WooRewards 标准版。"
+
+#: include/wizards/standard.php:45
+msgid ""
+"If you want to have access to all methods and rewards, please consider "
+"trying WooRewards Pro."
+msgstr "如果您希望使用所有奖励方式，请考虑升级到 WooRewards 专业版。"
+
+#: include/wizards/standard.php:51
+msgid "Loyalty system name"
+msgstr "积分系统名称"
+
+#: include/wizards/standard.php:55
+msgid ""
+"Name your loyalty system. If you leave it empty, it will be named "
+"automatically"
+msgstr "为您的积分系统命名。如留空，系统将会自动命名"
+
+#: include/wizards/standard.php:65
+msgid ""
+"Your customers will earn points every time they perform the actions defined "
+"here."
+msgstr "您的客户每次完成下面设置的行为时，都将获得积分。"
+
+#: include/wizards/standard.php:66
+msgid ""
+"Set points for all the methods you want and ignore the ones you don't want. "
+"You can change all these settings later."
+msgstr ""
+"设置所有您想使用的积分方式。填写可获得的分值，或留空来忽略该项目。您也可以在"
+"之后来调整这些设置。"
+
+#: include/wizards/standard.php:67
+msgid "Some categories are not accessible in the free version of WooRewards."
+msgstr "免费版 WooRewards 无法使用部分类别。"
+
+#: include/wizards/standard.php:73
+msgid "Select a Category"
+msgstr "选择种类"
+
+#: include/wizards/standard.php:77
+msgid "Orders"
+msgstr "订单"
+
+#: include/wizards/standard.php:78
+msgid "Products"
+msgstr "商品"
+
+#: include/wizards/standard.php:79
+msgid "Rate us !"
+msgstr "请为我们评个分吧！"
+
+#: include/wizards/standard.php:80
+msgid "Talk about us !"
+msgstr "谈论我们！"
+
+#: include/wizards/standard.php:92
+#, fuzzy, php-format
+#| msgid " %s points earned for each %s spent"
+msgid "Points for each %s spent"
+msgstr " %s 分每消费 %s 元"
+
+#: include/wizards/standard.php:96 include/wizards/standard.php:105
+#: include/wizards/standard.php:114
+msgid "Number | Empty to ignore"
+msgstr "数值 | 留空忽略"
+
+#: include/wizards/standard.php:101
+#, fuzzy
+#| msgid "Points on 'Complete' order only"
+msgid "Points on order placed"
+msgstr "仅计算 ”已完成“ 订单的积分"
+
+#: include/wizards/standard.php:110
+#, fuzzy
+#| msgid " %s extra points for the first order"
+msgid "Extra points on first order"
+msgstr "首单获得 %s 额外积分"
+
+#: include/wizards/standard.php:124
+msgid ""
+"Select the reward for your customers. The rewards types are limited in the "
+"standard version. You can change these settings later."
+msgstr "为您的客户选择奖励。标准版可以使用有限的奖励类型。您可以稍后变更设置。"
+
+#: include/wizards/standard.php:130
+msgid "Select a reward"
+msgstr "选择奖励"
+
+#: include/wizards/standard.php:134
+#, php-format
+msgctxt "Coupon Unlockable"
+msgid "Coupon (%s)"
+msgstr "优惠券 (%s)"
+
+#: include/wizards/standard.php:135 include/wizards/standard.php:176
+msgid "Discount (%)"
+msgstr "折扣(%)"
+
+#: include/wizards/standard.php:136
+msgid "Free Product"
+msgstr "免费商品"
+
+#: include/wizards/standard.php:137
+msgid "Free Shipping"
+msgstr "免运费"
+
+#: include/wizards/standard.php:138
+msgid "Variable Discount"
+msgstr "浮动折扣"
+
+#: include/wizards/standard.php:139
+msgid "Badge"
+msgstr "徽章"
+
+#: include/wizards/standard.php:140
+msgid "User Role"
+msgstr "用户角色"
+
+#: include/wizards/standard.php:141
+msgid "VIP Membership"
+msgstr "VIP会员"
+
+#: include/wizards/standard.php:152
+msgid "Points Needed"
+msgstr "所需积分"
+
+#: include/wizards/standard.php:162
+#, php-format
+msgctxt "Coupon Unlockable"
+msgid "Coupon Amount (%s)"
+msgstr "优惠券值 (%s)"
+
+#: include/wizards/standard.php:166
+msgid ""
+"Every time customers have enough points, those points will be used to "
+"generate a coupon of that amount."
+msgstr "每当客户积累到一定的积分，这些积分将可用于兑换所设置价值的优惠券。"
+
+#: include/wizards/standard.php:180
+msgid ""
+"Every time customers have enough points, those points will be used to "
+"generate a discount coupon with that percentage."
+msgstr ""
+"每当客户积累到一定的积分，这些积分将可用于兑换所设置折扣百分比的优惠券。"
+
+#: include/wizards/standard.php:190
+msgid ""
+"You're almost done. Check your settings below and submit if you're satisfied "
+"with the settings."
+msgstr "已经快大功告成了。请再次检查以下设置，如果觉得满意，请提交保存。"
+
+#: include/wizards/standard.php:196
+msgid "Settings Summary"
+msgstr "设置总览"
+
+#: include/wizards/standard.php:200 include/wizards/standard.php:213
+msgid ""
+"Do you want to start your loyalty system at the end of this wizard ? If you "
+"select No, you'll have to start it manually later."
+msgstr ""
+"您希望在完成向导后立即启用积分系统么？如选择 “否”，您也可以稍后手动启用。"
+
+#: include/wizards/standard.php:205
+msgid "Start the program ?"
+msgstr "开始么？"
+
+#: include/wizards/standard.php:209
+msgid "Yes"
+msgstr "是"
+
+#: include/wizards/standard.php:210
+msgid "No"
+msgstr "否"
+
+#: include/wizards/standard.php:248
+msgid "Loyalty System Name"
+msgstr "积分系统名称"
+
+#: include/wizards/standard.php:256
+#, php-format
+msgid " %s points earned for each %s spent"
+msgstr " %s 分每消费 %s 元"
+
+#: include/wizards/standard.php:257
+msgid "Spend Money"
+msgstr "消费金额"
+
+#: include/wizards/standard.php:261
+#, php-format
+msgid " %s points for each placed order"
+msgstr "每单获得 %s 积分"
+
+#: include/wizards/standard.php:262
+msgid "Place an order"
+msgstr "每次下单"
+
+#: include/wizards/standard.php:266
+#, php-format
+msgid " %s extra points for the first order"
+msgstr "首单获得 %s 额外积分"
+
+#: include/wizards/standard.php:267
+msgid "Place a first order"
+msgstr "首次下单"
+
+#: include/wizards/standard.php:275
+#, php-format
+msgid " %s percent discount for %s points"
+msgstr " %s 的百分数折扣使用  %s 积分"
+
+#: include/wizards/standard.php:276
+msgid "Percentage Discount"
+msgstr "百分数折扣"
+
+#: include/wizards/standard.php:280
+#, php-format
+msgid " %s%s discount for %s points"
+msgstr " %s %s 的折扣使用  %s 积分"
+
+#: include/wizards/standard.php:281
+msgid "Fixed Discount"
+msgstr "固定折扣"
+
+#: include/wizards/standard.php:295
+#, php-format
+msgid ""
+"Points for each %s spent expects numeric value greater than zero or leave "
+"blank."
+msgstr "每 %s 消费获得的积分，数值需大于零或留空。"
+
+#: include/wizards/standard.php:298
+msgid ""
+"Points on order placed expects numeric value greater than zero or leave "
+"blank."
+msgstr "每 个订单获得的积分，数值需大于零或留空。"
+
+#: include/wizards/standard.php:301
+msgid ""
+"Extra points on first order expects numeric value greater than zero or leave "
+"blank."
+msgstr "首次消费获得的额外积分，数值需大于零或留空。"
+
+#: include/wizards/standard.php:308
+msgid "Points Needed expects numeric value greater than zero."
+msgstr "所需积分，数值需大于零或留空。"
+
+#: include/wizards/standard.php:314
+msgid "Please, set a reward percentage greater than 0% up to 100%."
+msgstr "请设置奖励的百分比，需大于 0% 且小于 100%"
+
+#: include/wizards/standard.php:319
+msgid "Please, set a positive reward amount."
+msgstr "请设置奖励的数值，需为正数。"
+
+#: include/wizards/standard.php:322
+msgid "Please, select a reward type."
+msgstr "请选择奖励类型。"
+
+#: woorewards.php:125
+msgid "Settings"
+msgstr "设置"
+
+#: woorewards.php:128
+msgid "Help"
+msgstr "帮助"
+
+#: woorewards.php:138
+msgid "Add Licence Key"
+msgstr "输入授权码"
+
+#: woorewards.php:147
+msgid "https://plugins.longwatchstudio.com/product/woorewards/"
+msgstr "https://plugins.longwatchstudio.com/product/woorewards/"
+
+#: woorewards.php:157
+msgid "https://plugins.longwatchstudio.com/docs/woorewards/"
+msgstr "https://plugins.longwatchstudio.com/docs/woorewards/"
+
+#: woorewards.php:255
+#, fuzzy
+#| msgid "Point"
+#| msgid_plural "Points"
+msgid "Point"
+msgstr "积分"
+
+#: woorewards.php:288
+msgid "WooRewards Thumbnail"
+msgstr "WooRewards 缩略图"
+
+#: woorewards.php:289
+msgid "WooRewards Thumbnail Small"
+msgstr "WooRewards 缩略图-小"
+
+#: woorewards.php:344
+msgid "Loyalty Systems"
+msgstr "积分系统"
+
+#: woorewards.php:351
+msgid "Earning Points Methods"
+msgstr "积分获取方式"
+
+#: woorewards.php:352
+msgid "Earning Points Method"
+msgstr "积分获取方式"
+
+#: woorewards.php:390
+msgid ""
+"We detect a WooRewards licence downgrade: Click here to restore missing "
+"configuration."
+msgstr "检测到 WooRewards 授权变动: 点击这里恢复丢失的设置."
+
+#: woorewards.php:391
+msgid "Restore"
+msgstr "恢复"
+
+#. Description of the plugin/theme
+msgid ""
+"Improve your customers experience with Rewards, Levels and Achievements. Use "
+"it with WooCommerce to set up a loyalty program."
+msgstr ""
+"提升客户体验，可以使用奖励、升级和获得成就等等方式。与 WooCommerce 一起使用更"
+"可以创建完整的客户积分及奖励管理体系。"
+
+#. Author URI of the plugin/theme
+msgid "https://longwatchstudio.com"
+msgstr "https://longwatchstudio.com"
+
+#~ msgid "Earning Method"
+#~ msgstr "积分获取方式"
+
+#~ msgid "Method"
+#~ msgstr "方式"
+
+#~ msgctxt "Event title"
+#~ msgid "Title"
+#~ msgstr "标题"
+
+#~ msgid "Method Points"
+#~ msgstr "积分设置"
+
+#~ msgctxt "Unlockable validity period start"
+#~ msgid "Active Start Date"
+#~ msgstr "有效期开始"
+
+#, php-format
+#~ msgid ""
+#~ "You could present a point history to your customer by using the shortcode "
+#~ "%s"
+#~ msgstr "您可以使用短代码 %s 向客户展示积分记录"
+
+#~ msgid "Earning points"
+#~ msgstr "获取积分"
+
+#~ msgid "Here you can manage the rewards for your customers"
+#~ msgstr "您可以在这里管理客户获取奖励积分的方式"
+
+#, php-format
+#~ msgid "If you want, you can use the following shortcode instead : %s."
+#~ msgstr "如果需要，您可以使用如下短代码：%s"
+
+#~ msgid "Difficulty"
+#~ msgstr "难易度"
+
+#~ msgid "Time needed"
+#~ msgstr "耗时"
+
+#~ msgid "min"
+#~ msgstr "分钟"
+
+#~ msgid "Easy"
+#~ msgstr "简单"

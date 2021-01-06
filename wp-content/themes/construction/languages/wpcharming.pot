@@ -1,0 +1,4083 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Construction\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2015-04-06 11:23:27+00:00\n"
+"POT-Revision-Date: Thu Dec 10 2015 11:28:01 GMT+0700 (ICT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2"
+
+#: ../404.php:14
+msgid "404"
+msgstr ""
+
+#: ../404.php:16
+msgid "Page Not Found"
+msgstr ""
+
+#: ../404.php:17
+msgid ""
+"The page you are looking for does not appear to exist. Please go back or "
+"head on over our homepage to choose a new direction."
+msgstr ""
+
+#: ../404.php:19
+msgid "Go to previous page"
+msgstr ""
+
+#: ../404.php:20
+msgid "Go back to homepage"
+msgstr ""
+
+#: ../comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:35 ../comments.php:51
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:52
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:20 ../content-search.php:38 ../content-single.php:34 ..
+#: content.php:38
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: ../content-search.php:31 ../content.php:31
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../footer.php:70
+#, php-format
+msgid "Copyright &copy; 2015 %1$s - Theme by %2$s"
+msgstr ""
+
+#: ../footer.php:70
+msgid "https://wpcharming.com/"
+msgstr ""
+
+#: ../functions.php:68
+msgid "Primary"
+msgstr ""
+
+#: ../functions.php:69 ../inc/options-config.php:1181
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:109
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:118
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:127
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: ../functions.php:137
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions.php:146
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions.php:155
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions.php:164
+msgid "Footer 4"
+msgstr ""
+
+#: ../functions.php:174
+msgid "Top Bar Left"
+msgstr ""
+
+#: ../functions.php:183
+msgid "Top Bar Right"
+msgstr ""
+
+#: ../header-centered.php:23 ../header-topbar.php:23 ../header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: ../search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../woocommerce.php:35
+msgid "Your Shopping Cart"
+msgstr ""
+
+#: ../inc/extras.php:266
+msgid ""
+"This widget area is currently disabled. You can enable it Theme Options - "
+"Footer section."
+msgstr ""
+
+#: ../inc/extras.php:282
+msgid ""
+"This widget area is currently disabled because you are using default header "
+"( Theme Option > Header ) and it only available for Header Topbar or Header "
+"Centered."
+msgstr ""
+
+#: ../inc/extras.php:306
+msgid "Projects"
+msgstr ""
+
+#: ../inc/extras.php:307 ../inc/options-config.php:804
+msgid "Project"
+msgstr ""
+
+#: ../inc/extras.php:308
+msgid "Add New Item"
+msgstr ""
+
+#: ../inc/extras.php:309 ../inc/extras.php:311
+msgid "Add New Project"
+msgstr ""
+
+#: ../inc/extras.php:310
+msgid "Edit Project"
+msgstr ""
+
+#: ../inc/extras.php:312
+msgid "View Item"
+msgstr ""
+
+#: ../inc/extras.php:313
+msgid "Search Projects"
+msgstr ""
+
+#: ../inc/extras.php:314
+msgid "No projects found"
+msgstr ""
+
+#: ../inc/extras.php:315
+msgid "No projects found in trash"
+msgstr ""
+
+#: ../inc/options-config.php:54
+msgid "Theme Information 1"
+msgstr ""
+
+#: ../inc/options-config.php:55 ../inc/options-config.php:61
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../inc/options-config.php:60
+msgid "Theme Information 2"
+msgstr ""
+
+#: ../inc/options-config.php:65
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: ../inc/options-config.php:88 ../inc/options-config.php:89
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/options-config.php:225
+msgid "General"
+msgstr ""
+
+#: ../inc/options-config.php:236
+msgid "Site Logo"
+msgstr ""
+
+#: ../inc/options-config.php:238
+msgid "Upload your logo here."
+msgstr ""
+
+#: ../inc/options-config.php:244
+msgid "Site Logo Retina"
+msgstr ""
+
+#: ../inc/options-config.php:246
+msgid ""
+"Upload at exactly 2x the size of your standard logo (optional), the name "
+"should include @2x at the end, example <strong>logo@2x.png</strong>"
+msgstr ""
+
+#: ../inc/options-config.php:252
+msgid "Transparent Logo"
+msgstr ""
+
+#: ../inc/options-config.php:254
+msgid ""
+"Upload your transparent logo here, transparent logo display on a transparent "
+"header when applicable."
+msgstr ""
+
+#: ../inc/options-config.php:260
+msgid "Transparent Logo Retina"
+msgstr ""
+
+#: ../inc/options-config.php:262
+msgid "Upload at exactly 2x the size of your transparent logo (optional)."
+msgstr ""
+
+#: ../inc/options-config.php:271
+msgid "Logo Margin"
+msgstr ""
+
+#: ../inc/options-config.php:273
+msgid "Set your logo margin in px. ee.g. 20"
+msgstr ""
+
+#: ../inc/options-config.php:287
+msgid "Site Favicon"
+msgstr ""
+
+#: ../inc/options-config.php:289
+msgid "Upload a 16px x 16px .png or .gif image that will be your favicon."
+msgstr ""
+
+#: ../inc/options-config.php:295
+msgid "Apple iPhone Icon "
+msgstr ""
+
+#: ../inc/options-config.php:297
+msgid "Custom iPhone icon (57px x 57px)."
+msgstr ""
+
+#: ../inc/options-config.php:304
+msgid "Apple iPhone Retina Icon "
+msgstr ""
+
+#: ../inc/options-config.php:306
+msgid "Custom iPhone retina icon (114px x 114px)."
+msgstr ""
+
+#: ../inc/options-config.php:313
+msgid "Apple iPad Icon "
+msgstr ""
+
+#: ../inc/options-config.php:315
+msgid "Custom iPad icon (72px x 72px)."
+msgstr ""
+
+#: ../inc/options-config.php:322
+msgid "Apple iPad Retina Icon "
+msgstr ""
+
+#: ../inc/options-config.php:324
+msgid "Custom iPad retina icon (144px x 144px)."
+msgstr ""
+
+#: ../inc/options-config.php:329
+msgid "Enable Page Comments?"
+msgstr ""
+
+#: ../inc/options-config.php:330
+msgid "Do you want to enable comments on single page?"
+msgstr ""
+
+#: ../inc/options-config.php:336
+msgid "Enable Back To Top Button?"
+msgstr ""
+
+#: ../inc/options-config.php:337
+msgid "Do you want to enable back to top button?"
+msgstr ""
+
+#: ../inc/options-config.php:347
+msgid "Layout"
+msgstr ""
+
+#: ../inc/options-config.php:355
+msgid "Boxed Version?"
+msgstr ""
+
+#: ../inc/options-config.php:356
+msgid "Do you want to enable boxed layout?"
+msgstr ""
+
+#: ../inc/options-config.php:362 ../inc/meta/usage.php:62
+msgid "Page Layout"
+msgstr ""
+
+#: ../inc/options-config.php:363
+msgid "Default page layout."
+msgstr ""
+
+#: ../inc/options-config.php:374
+msgid "Archive Layout"
+msgstr ""
+
+#: ../inc/options-config.php:375
+msgid ""
+"Default archive layout ( front page, category, tag, search, author, archive "
+")."
+msgstr ""
+
+#: ../inc/options-config.php:386
+msgid "Blog Layout"
+msgstr ""
+
+#: ../inc/options-config.php:387
+msgid "Set your blog layout to display, include blog page and single blog post."
+msgstr ""
+
+#: ../inc/options-config.php:398
+msgid "Single WooCommerce Product Layout"
+msgstr ""
+
+#: ../inc/options-config.php:399
+msgid "Layout for single product and products archive."
+msgstr ""
+
+#: ../inc/options-config.php:415
+msgid "Header"
+msgstr ""
+
+#: ../inc/options-config.php:424
+msgid "Enable fixed header on scroll."
+msgstr ""
+
+#: ../inc/options-config.php:431
+msgid "Header Style"
+msgstr ""
+
+#: ../inc/options-config.php:432
+msgid "Select your header style"
+msgstr ""
+
+#: ../inc/options-config.php:445
+msgid "Header Topbar Setup Guide"
+msgstr ""
+
+#: ../inc/options-config.php:446
+msgid ""
+"You had selected <strong>Header Topbar</strong> style. In order to display "
+"top bar elements please go to Widget page and look for TopBar Left / TopBar "
+"Right widget areas."
+msgstr ""
+
+#: ../inc/options-config.php:453
+msgid "Header Centered Setup Guide"
+msgstr ""
+
+#: ../inc/options-config.php:454
+msgid ""
+"You had selected <strong>Header Centered</strong> style. In order to display "
+"top bar elements please go to Widget page and look for TopBar Left / TopBar "
+"Right widget areas."
+msgstr ""
+
+#: ../inc/options-config.php:461
+msgid "Enable header social icon"
+msgstr ""
+
+#: ../inc/options-config.php:468
+msgid "Select Header Social Icon?"
+msgstr ""
+
+#: ../inc/options-config.php:469 ../inc/options-config.php:1154
+msgid ""
+"Which icon should display? the social icon url will be take from Social "
+"Media setting tab."
+msgstr ""
+
+#: ../inc/options-config.php:492
+msgid "Header Extract #1 Text"
+msgstr ""
+
+#: ../inc/options-config.php:501
+msgid "Header Extract #1 Value"
+msgstr ""
+
+#: ../inc/options-config.php:511
+msgid "Header Extract #2 Text"
+msgstr ""
+
+#: ../inc/options-config.php:520
+msgid "Header Extract #2 Value"
+msgstr ""
+
+#: ../inc/options-config.php:530
+msgid "Header Extract Value Color"
+msgstr ""
+
+#: ../inc/options-config.php:543
+msgid "Custom Topbar Style?."
+msgstr ""
+
+#: ../inc/options-config.php:551
+msgid "Topbar Background"
+msgstr ""
+
+#: ../inc/options-config.php:561
+msgid "Topbar Text Color"
+msgstr ""
+
+#: ../inc/options-config.php:572
+msgid "Topbar Link Color"
+msgstr ""
+
+#: ../inc/options-config.php:583
+msgid "Topbar Link Hover Color"
+msgstr ""
+
+#: ../inc/options-config.php:594
+msgid "Topbar Primary Color"
+msgstr ""
+
+#: ../inc/options-config.php:605
+msgid "Topbar Border Color"
+msgstr ""
+
+#: ../inc/options-config.php:627
+msgid "Custom Header Style?."
+msgstr ""
+
+#: ../inc/options-config.php:635
+msgid "Header Background"
+msgstr ""
+
+#: ../inc/options-config.php:645
+msgid "Header Color"
+msgstr ""
+
+#: ../inc/options-config.php:683
+msgid "Primary Menu"
+msgstr ""
+
+#: ../inc/options-config.php:691
+msgid "Primary Menu Typography"
+msgstr ""
+
+#: ../inc/options-config.php:709
+msgid "Custom typography for primary menu."
+msgstr ""
+
+#: ../inc/options-config.php:720
+msgid "Page"
+msgstr ""
+
+#: ../inc/options-config.php:731
+msgid "Page Title Background"
+msgstr ""
+
+#: ../inc/options-config.php:742
+msgid "Page Title Custom Color"
+msgstr ""
+
+#: ../inc/options-config.php:749
+msgid "Page Title Button"
+msgstr ""
+
+#: ../inc/options-config.php:756
+msgid "Button Type"
+msgstr ""
+
+#: ../inc/options-config.php:769 ../inc/vc_mods/vc_general_elements.php:16 ..
+#: inc/vc_mods/vc_general_elements.php:20
+msgid "Text on the button"
+msgstr ""
+
+#: ../inc/options-config.php:779
+msgid "Where it should link to?"
+msgstr ""
+
+#: ../inc/options-config.php:790
+msgid "Display that button on"
+msgstr ""
+
+#: ../inc/options-config.php:792
+msgid "Select the page you want to display contact button at page title area."
+msgstr ""
+
+#: ../inc/options-config.php:813
+msgid "Enable custom project slug?"
+msgstr ""
+
+#: ../inc/options-config.php:820
+msgid "Custom Project Slug:"
+msgstr ""
+
+#: ../inc/options-config.php:822
+msgid ""
+"Enter your project slug here, after change you will need to re-save the "
+"permalink setting again."
+msgstr ""
+
+#: ../inc/options-config.php:829
+msgid "Single Project Layout"
+msgstr ""
+
+#: ../inc/options-config.php:830
+msgid "Default single layout."
+msgstr ""
+
+#: ../inc/options-config.php:847
+msgid "Styling"
+msgstr ""
+
+#: ../inc/options-config.php:856
+msgid "Primary Color Schema"
+msgstr ""
+
+#: ../inc/options-config.php:891
+msgid "Secondary Color Schema"
+msgstr ""
+
+#: ../inc/options-config.php:904
+msgid "Meta Color"
+msgstr ""
+
+#: ../inc/options-config.php:917 ../inc/vc_mods/vc_mods.php:243
+msgid "Border Color"
+msgstr ""
+
+#: ../inc/options-config.php:942
+msgid "Site Background"
+msgstr ""
+
+#: ../inc/options-config.php:953
+msgid "Body Background for boxed layout"
+msgstr ""
+
+#: ../inc/options-config.php:967
+msgid "Typography"
+msgstr ""
+
+#: ../inc/options-config.php:977
+msgid "Body"
+msgstr ""
+
+#: ../inc/options-config.php:993
+msgid "Select custom font for your main body text."
+msgstr ""
+
+#: ../inc/options-config.php:1003 ../inc/vc_mods/vc_general_elements.php:134 ..
+#: inc/vc_mods/vc_special_elements.php:414
+msgid "Heading"
+msgstr ""
+
+#: ../inc/options-config.php:1019
+msgid "Select custom font for heading like h1, h2, h3, ..."
+msgstr ""
+
+#: ../inc/options-config.php:1032
+msgid "Blog"
+msgstr ""
+
+#: ../inc/options-config.php:1040
+msgid "Enable Blog Page Title"
+msgstr ""
+
+#: ../inc/options-config.php:1041
+msgid "Do you want to enable blog page title?"
+msgstr ""
+
+#: ../inc/options-config.php:1047
+msgid "Enable Blog Page Title For Single Blog Post"
+msgstr ""
+
+#: ../inc/options-config.php:1048
+msgid "Do you want to enable blog page title on single blog post?"
+msgstr ""
+
+#: ../inc/options-config.php:1054
+msgid "Enable Breadcrumb For Single Blog Post"
+msgstr ""
+
+#: ../inc/options-config.php:1055
+msgid "Do you want to enable breadcrumb on single blog post?"
+msgstr ""
+
+#: ../inc/options-config.php:1067
+msgid "Show Featured Image"
+msgstr ""
+
+#: ../inc/options-config.php:1068
+msgid "Show featured image on single blog post?"
+msgstr ""
+
+#: ../inc/options-config.php:1074
+msgid "Show Author Box"
+msgstr ""
+
+#: ../inc/options-config.php:1075
+msgid "Show author bio box on single blog post?"
+msgstr ""
+
+#: ../inc/options-config.php:1085
+msgid "Footer Connect"
+msgstr ""
+
+#: ../inc/options-config.php:1139
+msgid "Enable footer connect social icon"
+msgstr ""
+
+#: ../inc/options-config.php:1145
+msgid "Social Text"
+msgstr ""
+
+#: ../inc/options-config.php:1147
+msgid "Enter social text before the social icons."
+msgstr ""
+
+#: ../inc/options-config.php:1153
+msgid "Enable Social Icon?"
+msgstr ""
+
+#: ../inc/options-config.php:1189
+msgid "Enable footer widgets area."
+msgstr ""
+
+#: ../inc/options-config.php:1195
+msgid "Footer Columns"
+msgstr ""
+
+#: ../inc/options-config.php:1196
+msgid "Select the number of columns you would like for your footer widgets area."
+msgstr ""
+
+#: ../inc/options-config.php:1201
+msgid "1 Columns"
+msgstr ""
+
+#: ../inc/options-config.php:1202 ../inc/vc_mods/vc_general_elements.php:456 ..
+#: inc/vc_mods/vc_general_elements.php:563
+msgid "2 Columns"
+msgstr ""
+
+#: ../inc/options-config.php:1203 ../inc/vc_mods/vc_general_elements.php:457 ..
+#: inc/vc_mods/vc_general_elements.php:564
+msgid "3 Columns"
+msgstr ""
+
+#: ../inc/options-config.php:1204 ../inc/vc_mods/vc_general_elements.php:458 ..
+#: inc/vc_mods/vc_general_elements.php:565
+msgid "4 Columns"
+msgstr ""
+
+#: ../inc/options-config.php:1210
+msgid "Footer Copyright"
+msgstr ""
+
+#: ../inc/options-config.php:1211
+msgid "Enter the copyright section text."
+msgstr ""
+
+#: ../inc/options-config.php:1217
+msgid "Custom your footer style?."
+msgstr ""
+
+#: ../inc/options-config.php:1225
+msgid "Footer Background"
+msgstr ""
+
+#: ../inc/options-config.php:1236
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: ../inc/options-config.php:1245
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../inc/options-config.php:1254
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../inc/options-config.php:1263
+msgid "Footer Link Color Hover"
+msgstr ""
+
+#: ../inc/options-config.php:1272
+msgid "Site Info Background"
+msgstr ""
+
+#: ../inc/options-config.php:1285
+msgid "Social Media"
+msgstr ""
+
+#: ../inc/options-config.php:1293
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/options-config.php:1295
+msgid "Enter your Twitter URL."
+msgstr ""
+
+#: ../inc/options-config.php:1300
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/options-config.php:1302
+msgid "Enter your Facebook URL."
+msgstr ""
+
+#: ../inc/options-config.php:1307
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/options-config.php:1309
+msgid "Enter your Linkedin URL."
+msgstr ""
+
+#: ../inc/options-config.php:1314
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/options-config.php:1316
+msgid "Enter your Pinterest URL."
+msgstr ""
+
+#: ../inc/options-config.php:1321
+msgid "Google Plus"
+msgstr ""
+
+#: ../inc/options-config.php:1323
+msgid "Enter your Google Plus URL."
+msgstr ""
+
+#: ../inc/options-config.php:1328
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/options-config.php:1330
+msgid "Enter your Instagram URL."
+msgstr ""
+
+#: ../inc/options-config.php:1335
+msgid "VK"
+msgstr ""
+
+#: ../inc/options-config.php:1337
+msgid "Enter your VK URL."
+msgstr ""
+
+#: ../inc/options-config.php:1342
+msgid "Yelp"
+msgstr ""
+
+#: ../inc/options-config.php:1344
+msgid "Enter your Yelp URL."
+msgstr ""
+
+#: ../inc/options-config.php:1349
+msgid "Foursquare"
+msgstr ""
+
+#: ../inc/options-config.php:1351
+msgid "Enter your foursquare URL."
+msgstr ""
+
+#: ../inc/options-config.php:1356
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/options-config.php:1358
+msgid "Enter your Flickr URL."
+msgstr ""
+
+#: ../inc/options-config.php:1363
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/options-config.php:1365
+msgid "Enter your Youtube URL."
+msgstr ""
+
+#: ../inc/options-config.php:1371
+msgid "Email"
+msgstr ""
+
+#: ../inc/options-config.php:1373
+msgid "Enter your Email URL."
+msgstr ""
+
+#: ../inc/options-config.php:1379
+msgid "RSS"
+msgstr ""
+
+#: ../inc/options-config.php:1381
+msgid "Enter your website RSS URL."
+msgstr ""
+
+#: ../inc/options-config.php:1393
+msgid "Custom Codes"
+msgstr ""
+
+#: ../inc/options-config.php:1400
+msgid "Header Custom Codes"
+msgstr ""
+
+#: ../inc/options-config.php:1401
+msgid "It will apply to wp_head hook."
+msgstr ""
+
+#: ../inc/options-config.php:1407
+msgid "Footer Custom Codes"
+msgstr ""
+
+#: ../inc/options-config.php:1408
+msgid ""
+"It will apply to wp_footer hook, recommend for Google Analytic (Remember to "
+"include the entire script from google, if you just enter your tracking ID it "
+"will not work.) "
+msgstr ""
+
+#: ../inc/options-config.php:1419
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/options-config.php:1425
+msgid "CSS Code"
+msgstr ""
+
+#: ../inc/options-config.php:1426
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: ../inc/options-config.php:1441
+msgid "One Click Update"
+msgstr ""
+
+#: ../inc/options-config.php:1442
+msgid ""
+"Let us notify you when new versions of this theme are live on ThemeForest! "
+"Update with just one button click and forget about manual updates!<br> If "
+"you have any troubles while using auto update ( It is likely to be a "
+"permissions issue ) then you may want to manually update the theme as normal."
+msgstr ""
+
+#: ../inc/options-config.php:1448
+msgid "ThemeForest Username"
+msgstr ""
+
+#: ../inc/options-config.php:1450
+msgid "Enter here your ThemeForest (or Envato) username account (i.e. WPCharming)."
+msgstr ""
+
+#: ../inc/options-config.php:1455
+msgid "ThemeForest Secret API Key"
+msgstr ""
+
+#: ../inc/options-config.php:1457
+msgid ""
+"Enter here the secret api key you have created on ThemeForest. You can "
+"create a new one in the Settings > API Keys section of your profile."
+msgstr ""
+
+#: ../inc/options-config.php:1462
+msgid "One Click Update Note: "
+msgstr ""
+
+#: ../inc/options-config.php:1464
+msgid ""
+"If the one click update does not works for you ( ( It is likely to be a "
+"permissions issue ) ) then please do manual update or use <a target=\"_blank\" "
+"href=\"https://github.com/envato/envato-wordpress-toolkit\">Envato ToolKit</a>."
+" Thanks!"
+msgstr ""
+
+#: ../inc/template-tags.php:249
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../inc/template-tags.php:250
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../inc/template-tags.php:257
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:281
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:284
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: ../inc/template-tags.php:285
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:318
+msgid "Posted by "
+msgstr ""
+
+#: ../inc/template-tags.php:318
+msgid " on "
+msgstr ""
+
+#: ../inc/template-tags.php:320
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:326
+msgid " with "
+msgstr ""
+
+#: ../inc/template-tags.php:327
+msgid "0 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:327 ../inc/vc_mods/vc_general_elements.php:694
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:327
+#, php-format
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:366
+msgid "<i class=\"fa fa-file\"></i> "
+msgstr ""
+
+#: ../inc/template-tags.php:369
+msgid "<i class=\"fa fa-tag\"></i> "
+msgstr ""
+
+#: ../inc/template-tags.php:393
+#, php-format
+msgctxt "author byline"
+msgid "Written by %s"
+msgstr ""
+
+#: ../inc/template-tags.php:427
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:429
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:431
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:433
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:433
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../inc/template-tags.php:435
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:435
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../inc/template-tags.php:437
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:437
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../inc/template-tags.php:439
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: ../inc/template-tags.php:441
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: ../inc/template-tags.php:443
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: ../inc/template-tags.php:445
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: ../inc/template-tags.php:447
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: ../inc/template-tags.php:449
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: ../inc/template-tags.php:451
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: ../inc/template-tags.php:453
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: ../inc/template-tags.php:455
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: ../inc/template-tags.php:457
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../inc/template-tags.php:461
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:463
+msgid "Archives"
+msgstr ""
+
+#: ../inc/template-tags.php:680
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:680
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/template-tags.php:699
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../inc/template-tags.php:705
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:707
+msgid "Reply"
+msgstr ""
+
+#: ../inc/template-tags.php:708
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:713
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:984 ../inc/vc_mods/vc_general_elements.php:599
+msgid "Read More"
+msgstr ""
+
+#: ../inc/template-tags.php:1098 ../inc/vc_mods/vc_general_elements.php:736
+msgid "Sorry, there is no child pages under your selected page."
+msgstr ""
+
+#: ../inc/importer/importer/parsers.php:42 ../inc/importer/importer/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../inc/importer/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../inc/importer/importer/parsers.php:67 ../inc/importer/importer/parsers.php:
+#: 72 ../inc/importer/importer/parsers.php:262 ../inc/importer/importer/parsers.
+#: php:451
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:254
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:286
+msgid "Theme options import data could not be read. Please try a different file."
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:346
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:382
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:423
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:445
+msgid "Site does not support widget"
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:468
+msgid "Widget already exists"
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:517
+msgid "Imported"
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:520
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ../inc/importer/importer/radium-importer.php:527
+msgid "No Title"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:134 ..
+#: inc/importer/importer/wordpress-importer.php:143 ..
+#: inc/importer/importer/wordpress-importer.php:194 ..
+#: inc/importer/importer/wordpress-importer.php:198 ..
+#: inc/importer/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:505 ..
+#: inc/importer/importer/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../inc/importer/importer/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../inc/meta/example-functions.php:67
+msgid "Test Metabox"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:77 ../inc/meta/example-functions.php:363
+msgid "Test Text"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:78 ../inc/meta/example-functions.php:90 ..
+#: inc/meta/example-functions.php:98 ../inc/meta/example-functions.php:106 ..
+#: inc/meta/example-functions.php:115 ../inc/meta/example-functions.php:123 ..
+#: inc/meta/example-functions.php:137 ../inc/meta/example-functions.php:144 ..
+#: inc/meta/example-functions.php:152 ../inc/meta/example-functions.php:169 ..
+#: inc/meta/example-functions.php:178 ../inc/meta/example-functions.php:186 ..
+#: inc/meta/example-functions.php:193 ../inc/meta/example-functions.php:200 ..
+#: inc/meta/example-functions.php:214 ../inc/meta/example-functions.php:227 ..
+#: inc/meta/example-functions.php:240 ../inc/meta/example-functions.php:252 ..
+#: inc/meta/example-functions.php:261 ../inc/meta/example-functions.php:269 ..
+#: inc/meta/example-functions.php:278 ../inc/meta/example-functions.php:285 ..
+#: inc/meta/example-functions.php:298 ../inc/meta/example-functions.php:364 ..
+#: inc/meta/example-functions.php:458 ../inc/meta/example-functions.php:466 ..
+#: inc/meta/example-functions.php:473 ../inc/meta/example-functions.php:480 ..
+#: inc/meta/example-functions.php:487 ../inc/meta/example-functions.php:494 ..
+#: inc/meta/example-functions.php:501 ../inc/meta/example-functions.php:539
+msgid "field description (optional)"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:89
+msgid "Test Text Small"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:97
+msgid "Test Text Medium"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:105
+msgid "Website URL"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:114
+msgid "Test Text Email"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:122
+msgid "Test Time"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:129 ../inc/meta/example-functions.php:130
+msgid "Time zone"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:136
+msgid "Test Date Picker"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:143
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:151
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:168
+msgid "Test Money"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:177
+msgid "Test Color Picker"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:185
+msgid "Test Text Area"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:192
+msgid "Test Text Area Small"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:199
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:206
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:207
+msgid "This is a title description"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:213
+msgid "Test Select"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:219 ../inc/meta/example-functions.php:232 ..
+#: inc/meta/example-functions.php:244
+msgid "Option One"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:220 ../inc/meta/example-functions.php:233 ..
+#: inc/meta/example-functions.php:245
+msgid "Option Two"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:221 ../inc/meta/example-functions.php:234 ..
+#: inc/meta/example-functions.php:246
+msgid "Option Three"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:226
+msgid "Test Radio inline"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:239
+msgid "Test Radio"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:251
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:260
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:268
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:277
+msgid "Test Checkbox"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:284
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:289
+msgid "Check One"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:290
+msgid "Check Two"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:291
+msgid "Check Three"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:297
+msgid "Test wysiwyg"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:305
+msgid "Test Image"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:306
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: ../inc/meta/example-functions.php:312
+msgid "Multiple Files"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:313
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: ../inc/meta/example-functions.php:320
+msgid "oEmbed"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:321
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress."
+"org/Embeds</a>."
+msgstr ""
+
+#: ../inc/meta/example-functions.php:354
+msgid "About Page Metabox"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:385
+msgid "Repeating Field Group"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:393
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:395
+msgid "Entry {#}"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:396
+msgid "Add Another Entry"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:397
+msgid "Remove Entry"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:409
+msgid "Entry Title"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:416 ..
+#: inc/options/inc/fields/slides/field_slides.php:149 ..
+#: inc/options/inc/fields/slides/field_slides.php:204 ..
+#: inc/vc_mods/vc_general_elements.php:143
+msgid "Description"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:417
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:423
+msgid "Entry Image"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:429
+msgid "Image Caption"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:450
+msgid "User Profile Metabox"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:457
+msgid "Extra Info"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:465
+msgid "Avatar"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:472
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:479
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:486
+msgid "Google+ URL"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:493
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:500
+msgid "User Field"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:523
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: ../inc/meta/example-functions.php:538
+msgid "Site Background Color"
+msgstr ""
+
+#: ../inc/meta/usage.php:48
+msgid "Page Settings"
+msgstr ""
+
+#: ../inc/meta/usage.php:56
+msgid "Transparent Header"
+msgstr ""
+
+#: ../inc/meta/usage.php:57
+msgid ""
+"Transparent header on this page , it will required a transparent logo from "
+"theme option. ( Note: ONLY available for default header style and it will "
+"NOT apply for Header Topbar & Header Centered )"
+msgstr ""
+
+#: ../inc/meta/usage.php:63
+msgid "Set the page layout, inherit from Theme Option by default."
+msgstr ""
+
+#: ../inc/meta/usage.php:68 ../inc/meta/includes/CMB2_hookup.php:129 ..
+#: inc/options/framework.php:1835
+msgid "Default"
+msgstr ""
+
+#: ../inc/meta/usage.php:69
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/meta/usage.php:70
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/meta/usage.php:71
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/meta/usage.php:72
+msgid "Full Screen"
+msgstr ""
+
+#: ../inc/meta/usage.php:76
+msgid "Hide page title?"
+msgstr ""
+
+#: ../inc/meta/usage.php:77
+msgid "Check this box to hide page title."
+msgstr ""
+
+#: ../inc/meta/usage.php:82
+msgid "Hide breadcrumb?"
+msgstr ""
+
+#: ../inc/meta/usage.php:83
+msgid "Check this box to hide breadcrumb for this page."
+msgstr ""
+
+#: ../inc/meta/usage.php:88
+msgid "Enable Page Header?"
+msgstr ""
+
+#: ../inc/meta/usage.php:89
+msgid "Check this box to enable page header."
+msgstr ""
+
+#: ../inc/meta/usage.php:94
+msgid "Page Header Title"
+msgstr ""
+
+#: ../inc/meta/usage.php:95
+msgid "Enter in the page header title here, accept simple HTML code."
+msgstr ""
+
+#: ../inc/meta/usage.php:100
+msgid "Page Header Subtitle"
+msgstr ""
+
+#: ../inc/meta/usage.php:101
+msgid "Enter in the page header subtitle here."
+msgstr ""
+
+#: ../inc/meta/usage.php:106
+msgid "Text Alignment"
+msgstr ""
+
+#: ../inc/meta/usage.php:107
+msgid "Choose how you would like your header text to be aligned"
+msgstr ""
+
+#: ../inc/meta/usage.php:112 ../inc/options/inc/fields/border/field_border.php:
+#: 159 ../inc/options/inc/fields/spacing/field_spacing.php:236 ..
+#: inc/vc_mods/vc_general_elements.php:70 ../inc/vc_mods/vc_general_elements.php:
+#: 153 ../inc/vc_mods/vc_special_elements.php:461
+msgid "Left"
+msgstr ""
+
+#: ../inc/meta/usage.php:113 ../inc/vc_mods/vc_general_elements.php:71 ..
+#: inc/vc_mods/vc_general_elements.php:154 ../inc/vc_mods/vc_special_elements.
+#: php:462
+msgid "Center"
+msgstr ""
+
+#: ../inc/meta/usage.php:114 ../inc/options/inc/fields/border/field_border.php:
+#: 145 ../inc/options/inc/fields/spacing/field_spacing.php:222 ..
+#: inc/vc_mods/vc_general_elements.php:72 ../inc/vc_mods/vc_general_elements.php:
+#: 155 ../inc/vc_mods/vc_special_elements.php:463
+msgid "Right"
+msgstr ""
+
+#: ../inc/meta/usage.php:118
+msgid "Page Header Image"
+msgstr ""
+
+#: ../inc/meta/usage.php:119
+msgid ""
+"The image should be between 1500px - 2000px wide and have a minimum height "
+"of 500px for best results."
+msgstr ""
+
+#: ../inc/meta/usage.php:131
+msgid "Page Header Padding Top"
+msgstr ""
+
+#: ../inc/meta/usage.php:132
+msgid "Your header padding top in px. <strong>ee.g. 200</strong>, default is 60"
+msgstr ""
+
+#: ../inc/meta/usage.php:139
+msgid "Page Header Padding Bottom"
+msgstr ""
+
+#: ../inc/meta/usage.php:140
+msgid "Your header padding bottom in px. <strong>ee.g. 200</strong>, default is 60"
+msgstr ""
+
+#: ../inc/meta/usage.php:147
+msgid "Parallax Header?"
+msgstr ""
+
+#: ../inc/meta/usage.php:148
+msgid "Check this box to have a parallax scroll effect."
+msgstr ""
+
+#: ../inc/meta/usage.php:153
+msgid "Parallax Color Overlay"
+msgstr ""
+
+#: ../inc/meta/usage.php:154
+msgid "Set color overlay for parallax effect."
+msgstr ""
+
+#: ../inc/meta/usage.php:160
+msgid "Page Header Background Color"
+msgstr ""
+
+#: ../inc/meta/usage.php:161
+msgid "Set header background color if not using background image."
+msgstr ""
+
+#: ../inc/meta/usage.php:167 ../inc/vc_mods/vc_mods.php:222
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/meta/usage.php:168
+msgid "Set header text color."
+msgstr ""
+
+#: ../inc/meta/includes/CMB2.php:112
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2.php:302
+msgid "Click to toggle"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Ajax.php:37
+msgid "Please Try Again"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Ajax.php:133
+msgid "Remove Embed"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Ajax.php:137
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Field.php:885
+msgid "Add Group"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Field.php:886
+msgid "Remove Group"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Field.php:908 ../inc/meta/includes/CMB2_Field.php:
+#: 912 ../inc/vc_mods/vc_general_elements.php:404
+msgid "None"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:128 ../inc/meta/includes/CMB2_hookup.php:
+#: 165
+msgid "Clear"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:130
+msgid "Select Color"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:131
+msgid "Current Color"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:155
+msgid "mm/dd/yy"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:156
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:157
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:158
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:159
+msgid ""
+"January, February, March, April, May, June, July, August, September, October,"
+" November, December"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:160
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:161
+msgid "Next"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:162
+msgid "Prev"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:163
+msgid "Today"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:164 ../inc/meta/includes/CMB2_hookup.php:
+#: 174
+msgid "Done"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:168
+msgid "Choose Time"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:169
+msgid "Time"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:170
+msgid "Hour"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:171
+msgid "Minute"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:172
+msgid "Second"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:173
+msgid "Now"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:175
+msgid "hh:mm TT"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:181
+msgid "Use this file"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:182 ../inc/meta/includes/CMB2_Types.php:967
+msgid "Remove Image"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:183 ../inc/meta/includes/CMB2_Types.php:
+#: 353 ../inc/meta/includes/CMB2_Types.php:986 ..
+#: inc/options/inc/fields/background/field_background.php:321 ..
+#: inc/options/inc/fields/media/field_media.php:205 ..
+#: inc/options/inc/fields/multi_text/field_multi_text.php:69 ..
+#: inc/options/inc/fields/multi_text/field_multi_text.php:73 ..
+#: inc/options/inc/fields/multi_text/field_multi_text.php:76 ..
+#: inc/options/inc/fields/slides/field_slides.php:133 ..
+#: inc/options/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:184 ../inc/meta/includes/CMB2_Types.php:981
+msgid "File:"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:185 ../inc/meta/includes/CMB2_Types.php:
+#: 984 ../inc/options/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_hookup.php:186
+msgid "Select / Deselect All"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Types.php:294
+msgid "Add Row"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Types.php:722 ../inc/meta/includes/CMB2_Types.php:770
+msgid "No terms"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Types.php:835
+msgid "Add or Upload Files"
+msgstr ""
+
+#: ../inc/meta/includes/CMB2_Types.php:893
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../inc/meta/includes/helper-functions.php:254
+msgid "Save"
+msgstr ""
+
+#: ../inc/options/framework.php:223
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../inc/options/framework.php:223
+msgid "Redux Framework"
+msgstr ""
+
+#: ../inc/options/framework.php:227 ../inc/options/framework.php:231
+msgid "Options"
+msgstr ""
+
+#: ../inc/options/framework.php:1384 ../inc/options/framework.php:1385 ..
+#: inc/options/templates/panel/layout.tpl.php:250 ..
+#: inc/options/templates/panel/menu_container.tpl.php:61
+msgid "System Info"
+msgstr ""
+
+#: ../inc/options/framework.php:1688
+msgid "Enable"
+msgstr ""
+
+#: ../inc/options/framework.php:1693
+msgid "Disable"
+msgstr ""
+
+#: ../inc/options/framework.php:1699
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../inc/options/framework.php:1701
+msgid "clicking"
+msgstr ""
+
+#: ../inc/options/framework.php:1705
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../inc/options/framework.php:1710
+msgid "Hints"
+msgstr ""
+
+#: ../inc/options/core/enqueue.php:346 ..
+#: inc/options/extensions/customizer/extension_customizer.php:530
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../inc/options/core/enqueue.php:354 ..
+#: inc/options/extensions/customizer/extension_customizer.php:531
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../inc/options/core/enqueue.php:362
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../inc/options/core/enqueue.php:370 ..
+#: inc/options/extensions/customizer/extension_customizer.php:532
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../inc/options/core/enqueue.php:377
+msgid "Please Wait"
+msgstr ""
+
+#: ../inc/options/core/panel.php:34
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../inc/options/extensions/customizer/extension_customizer.php:565
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../inc/options/extensions/customizer/extension_customizer.php:566
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../inc/options/extensions/customizer/extension_customizer.php:567
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../inc/options/inc/class.redux_filesystem.php:23
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+
+#: ../inc/options/inc/class.redux_filesystem.php:25
+msgid "has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ../inc/options/inc/class.redux_functions.php:231
+msgid "Dismiss"
+msgstr ""
+
+#: ../inc/options/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: ../inc/options/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your "
+"<strong>Redux</strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: ../inc/options/inc/debug.php:41 ../inc/options/inc/debug.php:69 ..
+#: inc/options/inc/debug.php:76 ../inc/options/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../inc/options/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ../inc/options/inc/import_export.php:140 ../inc/options/inc/import_export.php:
+#: 149 ../inc/options/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:152 ../inc/options/inc/welcome.php:139
+msgid "Getting Started"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:153 ../inc/options/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of Redux?"
+"  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/options/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:40 ../inc/options/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:48 ../inc/options/inc/welcome.php:48 ..
+#: inc/options/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:56 ../inc/options/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:64 ../inc/options/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:135
+msgid "What's New"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:147
+msgid "Credits"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:164 ../inc/options/inc/welcome.php:333 ..
+#: inc/options/inc/welcome.php:471
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:167
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:169 ../inc/options/inc/welcome.php:300 ..
+#: inc/options/inc/welcome.php:338 ../inc/options/inc/welcome.php:476
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:174
+msgid "Some Feature"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:178 ../inc/options/inc/welcome.php:182 ..
+#: inc/options/inc/welcome.php:195 ../inc/options/inc/welcome.php:199 ..
+#: inc/options/inc/welcome.php:203 ../inc/options/inc/welcome.php:208 ..
+#: inc/options/inc/welcome.php:221 ../inc/options/inc/welcome.php:225 ..
+#: inc/options/inc/welcome.php:230
+msgid "Feature"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:190
+msgid "Some feature"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:217
+msgid "More Features"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:223 ../inc/options/inc/welcome.php:227 ..
+#: inc/options/inc/welcome.php:232
+msgid "description"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:242 ../inc/options/inc/welcome.php:246 ..
+#: inc/options/inc/welcome.php:252 ../inc/options/inc/welcome.php:256 ..
+#: inc/options/inc/welcome.php:262 ../inc/options/inc/welcome.php:266
+msgid "Cool thing"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:244 ../inc/options/inc/welcome.php:248 ..
+#: inc/options/inc/welcome.php:254 ../inc/options/inc/welcome.php:258 ..
+#: inc/options/inc/welcome.php:264 ../inc/options/inc/welcome.php:268
+msgid "cool thing description."
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:277 ../inc/options/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:298 ../inc/options/inc/welcome.php:336 ..
+#: inc/options/inc/welcome.php:474
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:350
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:352
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:354
+msgid "Product Price"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:358
+msgid "Download Files"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:373
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:387
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a "
+"href=\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr ""
+
+#: ../inc/options/inc/welcome.php:539
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../inc/options/inc/fields/background/field_background.php:124 ..
+#: inc/options/inc/fields/color/field_color.php:73 ..
+#: inc/options/inc/fields/color_gradient/field_color_gradient.php:79 ..
+#: inc/options/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: ../inc/options/inc/fields/background/field_background.php:141 ..
+#: inc/vc_mods/vc_mods.php:156
+msgid "Background Repeat"
+msgstr ""
+
+#: ../inc/options/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../inc/options/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../inc/options/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../inc/options/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../inc/options/inc/fields/background/field_background.php:223 ..
+#: inc/vc_mods/vc_mods.php:139
+msgid "Background Position"
+msgstr ""
+
+#: ../inc/options/inc/fields/background/field_background.php:277 ..
+#: inc/options/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../inc/options/inc/fields/background/field_background.php:314 ..
+#: inc/options/inc/fields/media/field_media.php:198 ..
+#: inc/options/inc/fields/slides/field_slides.php:126 ..
+#: inc/options/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../inc/options/inc/fields/border/field_border.php:125 ..
+#: inc/options/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../inc/options/inc/fields/border/field_border.php:138 ..
+#: inc/options/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../inc/options/inc/fields/border/field_border.php:152 ..
+#: inc/options/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/options/inc/fields/border/field_border.php:173
+msgid "Border style"
+msgstr ""
+
+#: ../inc/options/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../inc/options/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../inc/options/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ../inc/options/inc/fields/dimensions/field_dimensions.php:177 ..
+#: inc/options/inc/fields/typography/field_typography.php:436
+msgid "Height"
+msgstr ""
+
+#: ../inc/options/inc/fields/dimensions/field_dimensions.php:188 ..
+#: inc/options/inc/fields/dimensions/field_dimensions.php:189 ..
+#: inc/options/inc/fields/dimensions/field_dimensions.php:189 ..
+#: inc/options/inc/fields/spacing/field_spacing.php:245 ..
+#: inc/options/inc/fields/spacing/field_spacing.php:246 ..
+#: inc/options/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../inc/options/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../inc/options/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../inc/options/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../inc/options/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../inc/options/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../inc/options/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../inc/options/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../inc/options/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: ../inc/options/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: ../inc/options/inc/fields/select/field_select.php:83 ..
+#: inc/options/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: ../inc/options/inc/fields/select/field_select.php:134 ..
+#: inc/options/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../inc/options/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../inc/options/inc/fields/slides/field_slides.php:73 ..
+#: inc/options/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../inc/options/inc/fields/slides/field_slides.php:145 ..
+#: inc/options/inc/fields/slides/field_slides.php:200 ..
+#: inc/vc_mods/vc_general_elements.php:406
+msgid "Title"
+msgstr ""
+
+#: ../inc/options/inc/fields/slides/field_slides.php:153 ..
+#: inc/options/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../inc/options/inc/fields/slides/field_slides.php:167 ..
+#: inc/options/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../inc/options/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../inc/options/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../inc/options/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:227
+msgid "Font Family"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:228
+msgid "Font family"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:254 ..
+#: inc/options/inc/fields/typography/field_typography.php:255
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:269 ..
+#: inc/options/inc/fields/typography/field_typography.php:276
+msgid "Font style"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:270
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:276
+msgid "Style"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:316
+msgid "Font subsets"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:318
+msgid "Font Subsets"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:319
+msgid "Subsets"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:319
+msgid "Font script"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:336 ..
+#: inc/options/inc/fields/typography/field_typography.php:337 ..
+#: inc/options/inc/fields/typography/field_typography.php:338 ..
+#: inc/options/inc/fields/typography/field_typography.php:338 ..
+#: inc/vc_mods/vc_general_elements.php:150
+msgid "Text Align"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:359 ..
+#: inc/options/inc/fields/typography/field_typography.php:360 ..
+#: inc/options/inc/fields/typography/field_typography.php:361 ..
+#: inc/options/inc/fields/typography/field_typography.php:361
+msgid "Text Transform"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:382 ..
+#: inc/options/inc/fields/typography/field_typography.php:383 ..
+#: inc/options/inc/fields/typography/field_typography.php:384 ..
+#: inc/options/inc/fields/typography/field_typography.php:384
+msgid "Font Variant"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:402 ..
+#: inc/options/inc/fields/typography/field_typography.php:403 ..
+#: inc/options/inc/fields/typography/field_typography.php:404 ..
+#: inc/options/inc/fields/typography/field_typography.php:404
+msgid "Text Decoration"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:426 ..
+#: inc/options/inc/fields/typography/field_typography.php:427
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:427 ..
+#: inc/vc_mods/vc_general_elements.php:54
+msgid "Size"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:435 ..
+#: inc/options/inc/fields/typography/field_typography.php:436
+msgid "Line Height"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:444 ..
+#: inc/options/inc/fields/typography/field_typography.php:445 ..
+#: inc/options/inc/fields/typography/field_typography.php:445
+msgid "Word Spacing"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:453 ..
+#: inc/options/inc/fields/typography/field_typography.php:454 ..
+#: inc/options/inc/fields/typography/field_typography.php:454
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:472
+msgid "Font Color"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:474
+msgid "Font color"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:871
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../inc/options/inc/fields/typography/field_typography.php:972
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../inc/options/inc/validation/color/validation_color.php:15 ..
+#: inc/options/inc/validation/color_rgba/validation_color_rgba.php:14 ..
+#: inc/options/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../inc/options/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../inc/options/inc/validation/css/validation_css.php:71
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: ../inc/options/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../inc/options/inc/validation/email/validation_email.php:16 ..
+#: inc/options/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../inc/options/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../inc/options/inc/validation/no_special_chars/validation_no_special_chars.php:
+#: 16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../inc/options/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../inc/options/inc/validation/numeric/validation_numeric.php:16 ..
+#: inc/options/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:
+#: 16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../inc/options/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:35
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:60
+msgid "Expand"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:62 ..
+#: inc/options/templates/panel/layout.tpl.php:309
+msgid "Save Changes"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:65 ..
+#: inc/options/templates/panel/layout.tpl.php:313
+msgid "Reset Section"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:67 ..
+#: inc/options/templates/panel/layout.tpl.php:315
+msgid "Reset All"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:70 ..
+#: inc/options/templates/panel/layout.tpl.php:320
+msgid "Working..."
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:90
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:105
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:119
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:133
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:153
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:161
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../inc/options/templates/panel/layout.tpl.php:171
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:226 ../inc/tgm/plugin-activation.
+#: php:139
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:227 ../inc/tgm/plugin-activation.
+#: php:140
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:228 ../inc/tgm/plugin-activation.
+#: php:141
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:230 ../inc/tgm/plugin-activation.
+#: php:143
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:231 ../inc/tgm/plugin-activation.
+#: php:144
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:232 ../inc/tgm/plugin-activation.
+#: php:145
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:233 ../inc/tgm/plugin-activation.
+#: php:146
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:234 ../inc/tgm/plugin-activation.
+#: php:147
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:235 ../inc/tgm/plugin-activation.
+#: php:148
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:236 ../inc/tgm/plugin-activation.
+#: php:149
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:237 ../inc/tgm/plugin-activation.
+#: php:150
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:238 ../inc/tgm/plugin-activation.
+#: php:151
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:239 ../inc/tgm/plugin-activation.
+#: php:152
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:240 ../inc/tgm/plugin-activation.
+#: php:153
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:242 ../inc/tgm/class-tgm-plugin-
+#: activation.php:2184 ../inc/tgm/plugin-activation.php:154
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:243 ../inc/tgm/class-tgm-plugin-
+#: activation.php:1842
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:597 ../inc/tgm/class-tgm-plugin-
+#: activation.php:2414
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:690
+msgid ""
+"The remote plugin package is does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:690 ../inc/tgm/class-tgm-plugin-
+#: activation.php:694
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:694
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1352 ../inc/tgm/class-tgm-plugin-
+#: activation.php:1525
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1356 ../inc/tgm/class-tgm-plugin-
+#: activation.php:1529
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1361
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1364
+msgid "Required"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1364
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1367
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1370
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1476
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1498
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1550
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1566
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1567
+msgid "Source"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1568
+msgid "Type"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1569
+msgid "Status"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1587
+msgid "Install"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1588
+msgid "Activate"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1699
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:1819
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2167
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2168
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2169
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2170
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2171
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2172
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2183
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2306
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2307
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2311
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2312
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2312 ../inc/tgm/class-tgm-plugin-
+#: activation.php:2319
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2312 ../inc/tgm/class-tgm-plugin-
+#: activation.php:2319
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2313
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2314
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2318
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2319
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2320
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2321
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm/plugin-activation.php:142
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/tgm/plugin-activation.php:155
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: ../inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: ../inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:7
+msgid "Button"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:10 ../inc/vc_mods/vc_general_elements.
+#: php:126 ../inc/vc_mods/vc_general_elements.php:365 ..
+#: inc/vc_mods/vc_general_elements.php:524 ../inc/vc_mods/vc_special_elements.
+#: php:8 ../inc/vc_mods/vc_special_elements.php:153 ..
+#: inc/vc_mods/vc_special_elements.php:248 ../inc/vc_mods/vc_special_elements.
+#: php:407
+msgid "WPC Elements"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:11
+msgid "Eye catching button"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:21
+msgid "Text on the button."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:25 ../inc/vc_mods/vc_special_elements.
+#: php:284
+msgid "URL (Link)"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:27
+msgid "Button link."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:32
+msgid "Button Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:34
+msgid "Button color."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:36 ../inc/vc_mods/vc_mods.php:226
+msgid "Light"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:37
+msgid "Ghost"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:38 ../inc/vc_mods/vc_mods.php:227
+msgid "Dark"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:39 ../inc/vc_mods/vc_general_elements.
+#: php:221 ../inc/vc_mods/vc_special_elements.php:442
+msgid "Primary Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:40 ../inc/vc_mods/vc_general_elements.
+#: php:222 ../inc/vc_mods/vc_special_elements.php:443
+msgid "Secondary Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:41 ../inc/vc_mods/vc_special_elements.
+#: php:299
+msgid "Custom BG Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:47
+msgid "Custom Button BG Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:56
+msgid "Button size."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:58
+msgid "Regular Size"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:59
+msgid "Large Size"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:60
+msgid "Small Size"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:66
+msgid "Position"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:68
+msgid "Button Position."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:80 ../inc/vc_mods/vc_special_elements.
+#: php:479
+msgid "Custom Margin Top"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:88 ../inc/vc_mods/vc_special_elements.
+#: php:487
+msgid "Custom Margin Bottom"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:96
+msgid "Custom Margin Left"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:104
+msgid "Custom Margin Right"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:111 ../inc/vc_mods/vc_general_elements.
+#: php:473 ../inc/vc_mods/vc_general_elements.php:580 ..
+#: inc/vc_mods/vc_special_elements.php:305 ../inc/vc_mods/vc_special_elements.
+#: php:494
+msgid "Extra class name"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:113 ../inc/vc_mods/vc_general_elements.
+#: php:251 ../inc/vc_mods/vc_general_elements.php:475 ..
+#: inc/vc_mods/vc_general_elements.php:582 ../inc/vc_mods/vc_special_elements.
+#: php:307 ../inc/vc_mods/vc_special_elements.php:496
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:122
+msgid "Icon Box"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:138
+msgid "Heading for this icon box."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:146
+msgid "Description for this icon box."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:161
+msgid "Add Link"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:164
+msgid "Link that will be applied to this icon box."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:169
+msgid "Apply link to:"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:175
+msgid "Select whether to use color for icon or not."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:180 ../inc/vc_mods/vc_special_elements.
+#: php:292
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:183
+msgid "Customize the read more text."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:189
+msgid "Icon to display:"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:195
+msgid "Select which icon you would like to use"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:200
+msgid "Select Icon:"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:203
+msgid "Select the icon from the list."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:209
+msgid "Upload Custom Image:"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:212
+msgid "Upload the custom image."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:217
+msgid "Icon Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:223 ../inc/vc_mods/vc_special_elements.
+#: php:444
+msgid "Custom Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:229
+msgid "Custom Icon Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:238
+msgid "Icon Size in Pixel"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:248
+msgid "Extra Class"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:363
+msgid "Page Children"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:366
+msgid "Display list page children"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:372 ../inc/vc_mods/vc_general_elements.
+#: php:531
+msgid "Widget Title"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:375 ../inc/vc_mods/vc_general_elements.
+#: php:534
+msgid "What text use as widget title. Leave blank if no title is needed."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:379
+msgid "Select your parent Page"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:381
+msgid "The builder item will use parrent page ID to get page childen of that page."
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:387
+msgid "Order"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:389
+msgid "Ascending or descending order"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:392
+msgid "DESC"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:393
+msgid "ASC"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:399
+msgid "Orderby"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:401
+msgid "Sort retrieved posts/pages by parameter"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:405
+msgid "ID"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:407
+msgid "Name"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:408
+msgid "Date"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:409
+msgid "Page Order"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:416
+msgid "Specify page NOT to retrieve"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:432
+msgid "Number of posts"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:440 ../inc/vc_mods/vc_general_elements.
+#: php:547
+msgid "Display Mode"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:442 ../inc/vc_mods/vc_general_elements.
+#: php:549
+msgid "The layout your page children being display"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:444 ../inc/vc_mods/vc_general_elements.
+#: php:551
+msgid "Grid"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:445 ../inc/vc_mods/vc_general_elements.
+#: php:552
+msgid "Carousel"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:451 ../inc/vc_mods/vc_general_elements.
+#: php:558
+msgid "Column"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:453 ../inc/vc_mods/vc_general_elements.
+#: php:560
+msgid "How many column will be display on a row?"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:459 ../inc/vc_mods/vc_general_elements.
+#: php:566
+msgid "5 Columns"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:466 ../inc/vc_mods/vc_general_elements.
+#: php:573
+msgid "Read More text"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:522
+msgid "Recent News"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:525
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:539
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:690
+msgid "No Comments"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:692
+msgid " Comments"
+msgstr ""
+
+#: ../inc/vc_mods/vc_general_elements.php:698
+msgid "Comments off."
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:89
+msgid "Row ID"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:92
+msgid ""
+"Put your row ID here. This can then be used to target the row with CSS or as "
+"an anchor point to scroll to when the relevant link is clicked."
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:98
+msgid "Row Type"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:101
+msgid "Center Content"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:102
+msgid "Full Width - Center Content"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:103
+msgid "Full Width Content"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:111
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:121
+msgid "Row Background Meta"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:122
+msgid ""
+"If you check this option, the row background color will inherit from meta "
+"color setting in theme option."
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:131
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:142
+msgid "Left Top"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:143
+msgid "Left Center"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:144
+msgid "Left Bottom"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:145
+msgid "Center Top"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:146
+msgid "Center Center"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:147
+msgid "Center Bottom"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:148
+msgid "Right Top"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:149
+msgid "Right Center"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:150
+msgid "Right Bottom"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:159
+msgid "No Repeat"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:160
+msgid "Repeat"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:168
+msgid "Enable Parallax Style"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:169
+msgid "Enable? (Parallax working with background image)."
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:178
+msgid "Video Background"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:179
+msgid "Enable Video Background?"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:187
+msgid "MP4 File URL"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:190
+msgid ""
+"Enter the URL for your .mp4 video file here to create a video background for "
+"this row."
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:195
+msgid "OGV File URL"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:198
+msgid ""
+"Enter the URL for your .ogv video file here to create a video background for "
+"this row."
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:203
+msgid "WEBM File URL"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:206
+msgid ""
+"Enter the URL for your .webm video file here to create a video background "
+"for this row."
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:213
+msgid "Background Color Overlay (for Parallax & Video BG)"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:225
+msgid "Select"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:228
+msgid "Custom"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:234
+msgid "Custom Text Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:251
+msgid "Border Style"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:254
+msgid "Solid"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:255
+msgid "Dotted"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:256
+msgid "Dashed"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:263
+msgid "Border Width"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:266
+msgid "Your border width. Example: 1px 1px 1px 1px."
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:272
+msgid "Margin Top"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:275 ../inc/vc_mods/vc_mods.php:284 ..
+#: inc/vc_mods/vc_mods.php:293
+msgid "Don't include \"px\" in your string. e.g \"50\""
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:281
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:290
+msgid "Padding Top"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:299
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:307
+msgid "Padding Left"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:315
+msgid "Padding Right"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:323
+msgid "Extra Class Name"
+msgstr ""
+
+#: ../inc/vc_mods/vc_mods.php:326
+msgid "This can then be used to target the row with CSS."
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:6
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:14 ../inc/vc_mods/vc_special_elements.
+#: php:159
+msgid "Testimonial Style"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:16 ../inc/vc_mods/vc_special_elements.
+#: php:161
+msgid "Choose your testimonial style"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:19 ../inc/vc_mods/vc_special_elements.
+#: php:164
+msgid "Default, on a white background color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:20 ../inc/vc_mods/vc_special_elements.
+#: php:165
+msgid "Inverted, on a gray background color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:28
+msgid "Name for each Testimonial"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:30
+msgid "Mark Geragos,Evan Chesler,James M. Beck"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:31
+msgid "Enter name for each testimonial here. Divide each with linebreaks (Enter)."
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:35
+msgid "Testimonial Avatar"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:38
+msgid "Select images from media library."
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:43 ../inc/vc_mods/vc_special_elements.
+#: php:185
+msgid "Testimonial Content"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:45
+msgid ""
+"Dummy text is text that is used in the publishing industry or by web "
+"designers to occupy the space which will later be filled with ‘real’ content."
+" This is required when, for example, the final text is not yet available. \n"
+"\n"
+" Dummy text is text that is used in the publishing industry or by web "
+"designers to occupy the space which will later be filled with ‘real’ content."
+" This is required when, for example, the final text is not yet available. \n"
+"\n"
+" Dummy text is text that is used in the publishing industry or by web "
+"designers to occupy the space which will later be filled with ‘real’ content."
+" This is required when, for example, the final text is not yet available."
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:46
+msgid "Enter content for each testimonial here. Divide each with linebreaks (Enter)."
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:151
+msgid "Client Testimonial"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:171
+msgid "Client Name"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:178
+msgid "Client Avatar"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:246
+msgid "Featured Box"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:255
+msgid "Featured Box Image"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:263
+msgid "Video URL"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:271
+msgid "Featured Box Title"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:278
+msgid "Featured Box Description"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:286
+msgid "Featured Box permalink."
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:403
+msgid "Custom Heading"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:418
+msgid "Custom heading, allow simple HTML code."
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:423
+msgid "Heading Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:430
+msgid "Display a colored line below heading?"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:431
+msgid "Yes."
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:438 ../inc/vc_mods/vc_special_elements.
+#: php:450
+msgid "Custom Line Color"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:440
+msgid "Heading custom line color."
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:458
+msgid "Heading Position"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:468
+msgid "Heading Size"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:471
+msgid "Large"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:472
+msgid "Medium"
+msgstr ""
+
+#: ../inc/vc_mods/vc_special_elements.php:473
+msgid "Small"
+msgstr ""
+
+#: ../inc/widgets/wpc_posts.php:10
+msgid "WPC Posts"
+msgstr ""
+
+#: ../inc/widgets/wpc_posts.php:11
+msgid "Eye catching posts widget"
+msgstr ""
+
+#: ../inc/widgets/wpc_posts.php:44
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/wpc_posts.php:49
+msgid "How many posts to show ?"
+msgstr ""
+
+#: ../inc/widgets/wpc_posts.php:53
+msgid "Posts order:"
+msgstr ""
+
+#. Name of the theme
+msgid "Construction"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpcharming.com"
+msgstr ""
+
+#. Description of the theme
+msgid "Construction and Building Business WordPress Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WPCharming"
+msgstr ""

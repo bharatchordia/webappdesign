@@ -1,0 +1,20 @@
+2021-01-06T15:35:43+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/wyzxuaam/dummy.archesoftronix.co.in/wp-content/themes/construction/functions.php:327
+Stack trace:
+#0 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-includes/class-wp-hook.php(289): misha_populate_brands('brand')
+#1 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-admin/includes/class-wp-posts-list-table.php(1256): do_action('manage_posts_cu...', 'brand', 10)
+#4 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-admin/includes/class-wp-list-table.php(1439): WP_Posts_List_Table->column_default(Object(WP_Post), 'brand')
+#5 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-admin/includes/class-wp-posts-list-table.php(1302): WP_List_Table->single_row_columns(Object(WP_Post))
+#6 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-admin/includes/class-wp-posts- in /home/wyzxuaam/dummy.archesoftronix.co.in/wp-content/themes/construction/functions.php on line 327
+
+2021-01-06T15:35:58+00:00 CRITICAL Uncaught Error: Cannot use object of type WP_Error as array in /home/wyzxuaam/dummy.archesoftronix.co.in/wp-content/themes/construction/functions.php:327
+Stack trace:
+#0 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-includes/class-wp-hook.php(289): misha_populate_brands('brand')
+#1 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#3 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-admin/includes/class-wp-posts-list-table.php(1256): do_action('manage_posts_cu...', 'brand', 10)
+#4 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-admin/includes/class-wp-list-table.php(1439): WP_Posts_List_Table->column_default(Object(WP_Post), 'brand')
+#5 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-admin/includes/class-wp-posts-list-table.php(1302): WP_List_Table->single_row_columns(Object(WP_Post))
+#6 /home/wyzxuaam/dummy.archesoftronix.co.in/wp-admin/includes/class-wp-posts- in /home/wyzxuaam/dummy.archesoftronix.co.in/wp-content/themes/construction/functions.php on line 327
+

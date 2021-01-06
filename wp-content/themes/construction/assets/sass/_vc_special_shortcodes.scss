@@ -1,0 +1,104 @@
+// main: style.scss
+/* FEATURED BOX
+------------------------------*/
+.mobile-no-margin-top .row_inner_wrapper{
+	@include for(screens-medium) {
+		margin-top: 0px !important;
+	}
+}
+.featured-box {
+	.featured-box-thumb {
+
+		display: block;
+		a {
+			position: relative;
+			display: block;
+		}
+		img {
+			width: 100%;
+			box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+		}
+	}
+	.featured-box-content {
+		padding: 18px 0px 0px;
+	}
+	.featured-box-button a {
+		text-transform: uppercase;
+		font-weight: 600;
+		letter-spacing: 0.3px;
+		font-size: 14px;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+	.video_icon {
+		background: none repeat scroll 0 0 rgba(0, 0, 0, 0.2);
+	    border: 3px solid #ffffff;
+	    border-radius: 100px;
+	    line-height: 1;
+	    padding: 10px;
+	    width: 40px;
+	    height: 40px;
+	    position: absolute;
+	    right: 20px;
+	    top: 20px;
+	    i {
+	    	color: #ffffff;
+    		margin-left: 3px;
+    		font-size: 14px;
+	    }
+	}
+}
+
+/* CUSTOM HEADING
+------------------------------*/
+.custom-heading {
+	h2 {
+		margin-bottom: 0px;
+		font-weight: bold;
+	}
+	.heading-line {
+		width: 80px;
+		height: 2px;
+		display: inline-block;
+		background: $primary;
+	}
+	.heading-line.primary {
+		background: $primary;
+	}
+	.heading-line.secondary {
+		background: $secondary;
+	}
+}
+.custom-heading.wpb_content_element {
+	margin-bottom: 30px;
+}
+.custom-heading.heading-medium {
+	margin-bottom: 10px;
+	h2 {
+		font-size: 20px;
+	}
+	.heading-line {
+		width: 60px;
+	}
+}
+.custom-heading.heading-small {
+	margin-bottom: 10px;
+	h2 {
+		font-size: 17px;
+	}
+	.heading-line {
+		width: 40px;
+	}
+}
+
+/* CLIENT TESTIMONIAL CAROUSEL
+------------------------------*/
+.testimonial_carousel_wrapper {
+	.carousel-next {
+		right: 0px;
+	}
+	.carousel-prev {
+		right: 40px;
+	}
+}

@@ -1,0 +1,75 @@
+/*
+Theme Name: wpcharming
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/* Header */
+.site-header .site-branding { float: right; }
+.site-header .header-right-wrap { float: left; }
+.site-header .header-right-wrap .extract-element { float: left; }
+
+/* Main navigation */
+.wpc-menu ul { right: 0; left: auto; }
+.wpc-menu ul ul { right: 100%; left: auto; }
+
+/* Carousel */
+.carousel-prev, .carousel-next { right: auto; left: 20px; }
+.carousel-next { left: 60px; }
+.carousel-next i, .carousel-prev i { margin-right: 10px; }
+.testimonial_carousel_wrapper .carousel-next {
+  right: auto; left: 40px;
+}
+.testimonial_carousel_wrapper .carousel-prev {
+  right: auto; left: 0px;
+}
+
+/* Builder Item */
+.testimonial .testimonial-header .testimonial-avatar { float: right; margin-right: 0px; margin-left: 20px; }
+
+/* Page Elements */
+.page-entry-title.left { float: right; }
+.btn.right { float: left; }
+.breadcrumbs span { margin-right: 0; margin-left: 40px; }
+.breadcrumbs span span { margin-left: 0px; }
+.breadcrumbs a::before { left: 0; right: auto; display: none}
+.breadcrumbs a::after { left: 0;right: auto;display: none }
+.shop-elements.right { float: left; }
+.portfolio-nav.right { float: left; }
+.portfolio-prev { margin-left: 10px; }
+
+/* Footer */
+.contact-info-box ul { padding-right: 0px; }
+.contact-info-box ul li { text-align: right; }
+.contact-info-box ul li span, .site-footer .footer-columns ul.hours span { float: left; }
+
+.contact-info-item .contact-text { float: right; }
+.widget-area .widget ul, .widget-area .widget ol { padding-right: 0px; }
+
+/* Footer Info */
+.site-info-wrapper .site-info .copy_text { float: right; }
+.site-info-wrapper .site-info .footer-menu { float: left; }
+
+/* Footer Social */
+.footer-social { float: right; }
+
+/* BTT */
+#btt { right: auto; left: 20px; }
+
+/* Responsive */
+#nav-toggle { right: auto; left: 30px; }
+.wpc-menu.wpc-menu-mobile .nav-toggle-subarrow { right: auto; left: 0px; }
+.site-header .header-right-wrap .header-widget-mobile { right: 0px; left: auto; }
+.site-header .header-right-wrap .header-widget-mobile .extract-element { float: right; margin: 0 0 0 30px; }
+
+
